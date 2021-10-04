@@ -1,0 +1,1 @@
+﻿{"цель":["RES-6,msonormal,msobodytext"],"цели":["RES-6,msobodytext"],"целью":["RES-6,msobodytext"],"целого":["RES-25,msobodytext"],"целиком":["RES-16,msobodytext"]}

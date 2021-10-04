@@ -1,0 +1,1 @@
+﻿{"сохраняется":["RES-1983,warning","RES-619,msobodytext","RES-777,theorem","RES-1278,pexample"],"сохранением":["RES-10,definition"],"сохраняют":["RES-680,definition"],"сохраняет":["RES-773,definition","RES-969,properties"],"сохранении":["RES-794,provingtheorem"],"сохранение":["RES-1620,theorem"]}

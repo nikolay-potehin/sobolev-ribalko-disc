@@ -1,0 +1,1 @@
+﻿{"гульдена":["RES-1717,theorem","RES-1776,pexample"]}

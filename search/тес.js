@@ -1,0 +1,1 @@
+﻿{"тесно":["RES-763,msobodytext"],"тесной":["RES-1407,beginst","RES-1512,beginst"]}

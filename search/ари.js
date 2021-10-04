@@ -1,0 +1,1 @@
+﻿{"арифметические":["RES-682,next","RES-788,example","RES-791,provingtheorem","RES-881,texample"],"арифметической":["RES-726,pexample","RES-690,definition","RES-736,definition","RES-1267,pexample","RES-1321,msobodytext","RES-1637,pexample"],"арифметическая":["RES-690,definition","RES-736,definition"],"арифметических":["RES-763,definition"]}

@@ -1,0 +1,1 @@
+﻿{"служит":["RES-4,msobodytext","RES-7,msobodytext","RES-24,msobodytext"],"служат":["RES-5,msobodytext","RES-8,msobodytext"],"случае":["RES-6,msobodytext","RES-35,msobodytext"],"случая":["RES-33,msobodytext"],"случаем":["RES-34,msonormal"]}

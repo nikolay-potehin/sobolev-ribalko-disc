@@ -1,0 +1,1 @@
+﻿{"могут":["RES-198,msobodytext","RES-373,pexample","RES-376,pexample","RES-472,pexample","RES-670,warning,msobodytext","RES-685,msobodytext","RES-789,msobodytext","RES-1143,beginst","RES-1147,definition","RES-1153,beginst","RES-1330,definition","RES-1408,theorem","RES-1538,msobodytext","RES-1549,pexample","RES-157,msobodytext"]}

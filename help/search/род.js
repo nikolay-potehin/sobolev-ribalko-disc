@@ -1,0 +1,1 @@
+﻿{"род":["RES-6,msobodytext"]}

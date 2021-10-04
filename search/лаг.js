@@ -1,0 +1,1 @@
+﻿{"лагранжа":["RES-1035,beginst","RES-1054,endst","RES-1049,theorem,warning","RES-1042,theorem","RES-1043,warning","RES-1044,warning","RES-1072,msobodytext","RES-1118,msobodytext","RES-1138,dexample","RES-1156,provingtheorem","RES-1408,provingtheorem","RES-1684,msobodytext","ACT-1041"],"лагерь":["RES-1270,pexample"],"лагерю":["RES-1270,pexample"],"лагеря":["RES-1270,pexample"]}

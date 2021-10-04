@@ -1,0 +1,1 @@
+﻿{"углу":["RES-35,msobodytext","RES-20,msobodytext","RES-24,msobodytext","RES-25,msobodytext","RES-27,msobodytext","RES-15,msobodytext","RES-16,msobodytext"]}

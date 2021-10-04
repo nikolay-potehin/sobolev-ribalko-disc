@@ -1,0 +1,1 @@
+﻿{"аналитическую":["RES-4,msonormal"],"анализ":["RES-4,msonormal"],"аналогом":["RES-5,msobodytext"]}

@@ -1,0 +1,1 @@
+﻿{"кулярны":["RES-347,msobodytext"],"кулона":["RES-1780,pexample"]}

@@ -1,0 +1,1 @@
+﻿{"изложения":["RES-4,msobodytext"],"изложение":["RES-5,msobodytext","RES-6,msobodytext"]}

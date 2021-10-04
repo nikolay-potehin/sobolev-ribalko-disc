@@ -1,0 +1,1 @@
+﻿{"нарисуйте":["RES-497,pexample","RES-498,pexample","RES-499,pexample","RES-500,pexample"],"нарушении":["RES-788,warning","RES-1796,beginst"],"нарушено":["RES-788,example","RES-1146,definition"],"нарушения":["RES-1076,texample","RES-1138,dexample"],"нарушиться":["RES-1876,warning"],"нарушается":["RES-1876,definition","RES-1884,msobodytext"]}

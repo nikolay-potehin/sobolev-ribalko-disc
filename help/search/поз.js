@@ -1,0 +1,1 @@
+﻿{"позволяющих":["RES-34,msonormal"],"позволяет":["RES-21,msobodytext"]}

@@ -1,0 +1,92 @@
+<html>
+<head>
+<title>5. Ранг матрицы.</title>
+<link rel="stylesheet" href="../text.css" />
+</head><body><div id=p8 parent="p_main.p1.p3"><div id=title>5. Ранг матрицы.</div>
+
+<div id=block class="MsoBodyText">
+<div class="MsoBodyText">Пусть в матрице <img align=absmiddle src="img/image035.gif"> размерности <img align=absmiddle
+src="img/image023.gif"> выбраны <img align=absmiddle src="img/image080.gif"> строк
+и <img align=absmiddle
+src="img/image080.gif"> столбцов, причем <img align=absmiddle
+src="img/image081.gif">. Тогда элементы, стоящие на
+пересечении выбранных строк и столбцов, образуют квадратную матрицу <img align=absmiddle
+src="img/image080.gif">-го порядка. Определитель <img align=absmiddle
+src="img/image082.gif"> этой матрицы называется минором <img align=absmiddle
+src="img/image080.gif">-го порядка матрицы <img align=absmiddle
+src="img/image035.gif">.</div>
+</div>
+
+<div id=block class="Definition">
+<div style="text-indent:1cm"><b>Рангом</b> матрицы <img align=absmiddle src="img/image035.gif"> называется
+число, равное максимальному порядку <img align=absmiddle src="img/image083.gif"> отличных от нуля
+миноров <img align=absmiddle
+src="img/image082.gif"> этой матрицы:</div>
+
+<div><img align=absmiddle src="img/image084.gif">.</div>
+</div>
+
+
+
+<div id=block class="Definition">
+<div style="text-indent:1cm">Матрицы называются <b>эквивалентными</b>, что обозначается <img align=absmiddle
+src="img/image085.gif">, если <img align=absmiddle src="img/image086.gif">.</div>
+</div>
+
+<div id=block class="MsoBodyText">
+<div class="MsoBodyText">Ранг матрицы <img align=absmiddle src="img/image035.gif"> вычисляется
+методом окаймляющих миноров или методом элементарных преобразований.</div>
+
+<div class="MsoBodyText"><b>Метод окаймляющих миноров</b></div>
+
+<div class="MsoBodyText">Пусть в матрице <img align=absmiddle src="img/image035.gif"> элемент <img align=absmiddle
+src="img/image087.gif">, тогда <img align=absmiddle src="img/image088.gif"> и
+<img align=absmiddle
+src="img/image089.gif">. Окаймляем этот элемент элементами <img align=absmiddle
+src="img/image090.gif">-го столбца и <img align=absmiddle src="img/image091.gif">-й
+строки, получаем минор 2-го порядка:</div>
+
+<div class="formula"><img align=absmiddle src="img/image092.gif"></div>
+
+<div class="MsoBodyText">Если <img align=absmiddle src="img/image093.gif">, то присоединяем
+другие строки и столбцы, перебирая все возможные миноры 2-го порядка. Если все
+миноры второго порядка равны нулю, то <img align=absmiddle src="img/image094.gif">;
+если же существует хотя бы один минор 2-го порядка, отличный от нуля, то <img align=absmiddle
+src="img/image095.gif">.</div>
+
+<div class="MsoBodyText">Выбираем отличный от нуля минор 2-го порядка <img align=absmiddle
+src="img/image096.gif"> и окаймляем его элементами соседних строк
+и столбцов до минора 3-го порядка и так до тех пор, пока не будет выполнено
+условие: <img align=absmiddle
+src="img/image097.gif">, но все <img align=absmiddle src="img/image098.gif">.</div>
+
+<div class="MsoBodyText"><b>Метод элементарных преобразований</b></div>
+
+<div class="MsoBodyText">Элементарные преобразования матрицы не меняют ее ранга.</div>
+
+<div class="MsoBodyText">Для определения ранга матрицы <img align=absmiddle src="img/image035.gif"> методом
+элементарных преобразований следует:</div>
+
+<div>1.Переставить
+строки так, чтобы в верхнем левом углу матрицы был ненулевой элемент.</div>
+
+<div>2.Все
+элементы первого столбца, кроме <img align=absmiddle src="img/image099.gif">, обратить в ноль:</div>
+
+<div class="formula"><img align=absmiddle src="img/image100.gif">.</div>
+
+<div>3.Повторить
+операцию со второй строкой: во втором столбце должен быть ненулевой элемент,
+после чего все элементы второго столбца, кроме <img align=absmiddle src="img/image101.gif"> и
+<img align=absmiddle
+src="img/image102.gif">, обратить в ноль.</div>
+
+<div class="MsoBodyText">Окончательно после многократного применения указанной
+процедуры и отбрасывания нулевых строк преобразованная матрица будет иметь вид:</div>
+
+<div class="formula"><img align=absmiddle src="img/image103.gif">.</div>
+
+<div class="MsoBodyText">Тогда ранг матрицы <img align=absmiddle src="img/image104.gif">.</div>
+</div>
+
+</div></body></html>

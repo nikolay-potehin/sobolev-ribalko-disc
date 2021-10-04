@@ -1,0 +1,199 @@
+<html>
+<head>
+<title>28.2. Решение ОЛДУ второго порядка с постоянными коэффициентами</title>
+<link rel="stylesheet" href="../text.css" />
+</head><body><div id=p3 parent="p_main.p1"><div id=title>28.2. Решение ОЛДУ
+второго порядка с постоянными коэффициентами</div>
+
+<div id=block class="MsoBodyText">
+<div class="MsoBodyText">Рассмотрим уравнение</div>
+
+<div class="formula"><img align=absmiddle src="img/image050.gif">.  (<img align=absmiddle
+src="img/image051.gif">)</div>
+
+<div class="MsoBodyText">Ищем его решение в виде <img align=absmiddle src="img/image052.gif"> (подстановка
+Эйлера), найдем значения <img align=absmiddle src="img/image053.gif">. Продифференцируем
+<img align=absmiddle
+src="img/image001.gif">:</div>
+
+<div class="formula"><img align=absmiddle src="img/image054.gif">, <img align=absmiddle src="img/image055.gif">.</div>
+
+<div class="MsoBodyText">Подстановка такого вида решения в ДУ дает:</div>
+
+<div class="formula"><img align=absmiddle src="img/image056.gif">,<img align=absmiddle src="img/image057.gif">.</div>
+</div>
+
+<div id=block class="Definition">
+<div style="text-indent:1cm">Уравнение 
+<span><img align=absmiddle src="img/image057.gif">
+<span id="description">
+
+Характеристическое
+уравнение ОЛДУ второго порядка
+
+</span>
+</span> называется
+<b>характеристическим уравнением </b>ОЛДУ <img align=absmiddle src="img/image050.gif">.</div>
+
+<div class="formula"><img align=absmiddle src="img/image057.gif">  (<img align=absmiddle
+src="img/image058.gif">)</div>
+</div>
+
+<div id=block class="MsoBodyText">
+<div class="MsoBodyText">Решения характеристического уравнения имеют вид:</div>
+
+<div class="formula"><img align=absmiddle src="img/image059.gif">.</div>
+
+<div class="MsoBodyText">Возможны следующие виды решений:</div>
+
+<ol start=1>
+
+ <li>Если <img align=absmiddle
+     src="img/image060.gif">, то
+     характеристическое уравнение имеет два действительных различных корня <img align=absmiddle
+     src="img/image061.gif"> и <img align=absmiddle src="img/image062.gif">,
+     <img align=absmiddle
+     src="img/image063.gif">.</li>
+</ol>
+
+<div class="MsoBodyText">В этом случае ОЛДУ имеет два линейно независимых (<img align=absmiddle
+src="img/image063.gif">) различных частных решения <img align=absmiddle
+src="img/image064.gif">. Общее решение ДУ имеет вид:</div>
+
+<div class="formula"><img align=absmiddle src="img/image065.gif">,</div>
+
+<div>где <img align=absmiddle src="img/image059.gif">.</div>
+</div>
+
+<div id=block class="Example">
+<div style="text-indent:1cm">Найдите решение ОЛДУ <img align=absmiddle src="img/image066.gif">.</div>
+
+<div><img align=absmiddle src="img/image067.gif">.</div>
+
+<ol start=2>
+
+ <li>Если <img align=absmiddle
+     src="img/image068.gif">, то <img align=absmiddle
+     src="img/image069.gif"> и характеристическое уравнение
+     имеет корень <img align=absmiddle
+     src="img/image070.gif"> кратности два.</li>
+</ol>
+</div>
+
+<div id=block class="MsoBodyText">
+<div class="MsoBodyText">Одно частное решение имеет вид:</div>
+
+<div class="formula"><img align=absmiddle src="img/image071.gif">.</div>
+
+<div class="MsoBodyText">Второе линейно независимое частное решение ищем в виде:</div>
+
+<div class="formula"><img align=absmiddle src="img/image072.gif">,</div>
+
+<div>тогда</div>
+
+<div class="formula"><img align=absmiddle src="img/image073.gif">,</div>
+
+<div class="formula"><img align=absmiddle src="img/image074.gif">.</div>
+
+<div class="MsoBodyText">После подстановки в ОЛДУ и сокращения на <img align=absmiddle
+src="img/image075.gif"> получим</div>
+
+<div class="formula"><img align=absmiddle src="img/image076.gif">,</div>
+
+<div class="MsoBodyText">и уравнение для <img align=absmiddle src="img/image044.gif"> принимает вид:</div>
+
+<div class="formula"><img align=absmiddle src="img/image077.gif">.</div>
+
+<div class="MsoBodyText">В рассматриваемом случае равных корней характеристического
+уравнения <img align=absmiddle
+src="img/image078.gif">, и тогда</div>
+
+<div class="formula"><img align=absmiddle src="img/image079.gif"> <img align=absmiddle src="img/image080.gif">,
+<img align=absmiddle
+src="img/image081.gif">.</div>
+
+<div class="MsoBodyText">Положим,<img align=absmiddle src="img/image082.gif">, тогда <img align=absmiddle
+src="img/image083.gif">.</div>
+
+<div class="MsoBodyText">Общее решение ОЛДУ в случае <img align=absmiddle src="img/image084.gif"> имеет
+вид:</div>
+
+<div class="formula"><img align=absmiddle src="img/image085.gif">,</div>
+
+<div>где <img align=absmiddle src="img/image070.gif">.</div>
+</div>
+
+<div id=block class="Warning">
+<div style="text-indent:1cm">Убедиться в том, что выражение <img align=absmiddle src="img/image086.gif"> является
+вторым линейно независимым решением дифференциального уравнения при условии,
+что <img align=absmiddle
+src="img/image070.gif"> является решением характеристического
+уравнения, можно непосредственной подстановкой.</div>
+</div>
+
+<div id=block class="Example">
+<div><img align=absmiddle src="img/image087.gif">.</div>
+
+<div><img align=absmiddle src="img/image088.gif">.</div>
+
+<ol start=3>
+
+ <li>Если <img align=absmiddle
+     src="img/image089.gif">, то
+     характеристическое уравнение имеет два сопряженных комплексных корня</li>
+</ol>
+
+<div class="formula"><img align=absmiddle src="img/image090.gif">,</div>
+
+<div class="formula"><img align=absmiddle src="img/image091.gif">,</div>
+
+<div>где <img align=absmiddle src="img/image092.gif">.</div>
+</div>
+
+<div id=block class="MsoBodyText">
+<div class="MsoBodyText">Частные решения имеют вид:</div>
+
+<div class="formula"><img align=absmiddle src="img/image093.gif">.</div>
+
+<div class="MsoBodyText">Общее решение </div>
+
+<div class="formula"><img align=absmiddle src="img/image094.gif">,</div>
+
+<div>где <img align=absmiddle src="img/image095.gif"> и <img align=absmiddle src="img/image096.gif"> –
+такие комплексные постоянные, что <img align=absmiddle src="img/image001.gif"> – действительная
+функция. </div>
+
+<div class="MsoBodyText">По формуле Эйлера:</div>
+
+<div class="formula"><img align=absmiddle src="img/image097.gif">, <img align=absmiddle src="img/image098.gif">,</div>
+
+<div>тогда</div>
+
+<div class="formula"><img align=absmiddle src="img/image099.gif">.</div>
+
+<div class="MsoBodyText">Полагая <img align=absmiddle src="img/image100.gif">, <img align=absmiddle
+src="img/image101.gif">, <img align=absmiddle src="img/image034.gif"> –
+действительные постоянные, получим общее решение ОЛДУ в виде</div>
+
+<div class="formula"><img align=absmiddle src="img/image102.gif">,</div>
+
+<div>где <img align=absmiddle src="img/image103.gif">.</div>
+
+<ol start=4>
+
+ <li>В частном случае <img align=absmiddle src="img/image104.gif">,
+     когда <img align=absmiddle
+     src="img/image105.gif">, <img align=absmiddle src="img/image106.gif">,
+     общее решение имеет вид:</li>
+</ol>
+
+<div class="formula"><img align=absmiddle src="img/image107.gif">.</div>
+</div>
+
+<div id=block class="Example">
+<div><img align=absmiddle src="img/image108.gif">.</div>
+
+<div><img align=absmiddle src="img/image109.gif">, <img align=absmiddle src="img/image110.gif">.</div>
+</div>
+
+</div></body></html>

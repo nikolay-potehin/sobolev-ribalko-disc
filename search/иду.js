@@ -1,0 +1,1 @@
+﻿{"идущий":["RES-204,definition,msobodytext","RES-205,definition","RES-230,definition","RES-232,definition"],"идущую":["RES-204,warning"],"идущая":["RES-10,definition"]}

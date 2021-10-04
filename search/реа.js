@@ -1,0 +1,1 @@
+﻿{"реализуют":["RES-327,definition"],"реальных":["RES-7,beginst","RES-20,beginst"],"реализуется":["RES-1264,pexample"],"реальные":["RES-148,beginst"]}

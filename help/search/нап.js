@@ -1,0 +1,1 @@
+﻿{"напротив":["RES-33,msonormal","RES-35,msobodytext"],"например":["RES-34,msonormal","RES-21,msobodytext","RES-14,msobodytext","RES-16,msonormal"],"наполнения":["RES-19,msonormal","RES-22,signature","RES-11,msonormal"],"наполнение":["RES-22,msobodytext"],"направлены":["RES-27,msobodytext"],"направленные":["RES-11,msobodytext"]}

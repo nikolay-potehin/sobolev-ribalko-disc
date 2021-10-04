@@ -1,0 +1,1 @@
+﻿{"биссектрису":["RES-238,pexample"],"биссектрисы":["RES-238,pexample","RES-472,pexample","RES-747,msobodytext","RES-859,properties","RES-906,dexample"],"биссектрисой":["RES-284,pexample","RES-472,pexample"],"биссектрис":["RES-472,pexample"],"биссектриса":["RES-472,pexample"],"биссектрисе":["RES-472,pexample"]}

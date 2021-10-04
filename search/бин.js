@@ -1,0 +1,1 @@
+﻿{"бинома":["RES-684,provingtheorem","RES-690,msobodytext","RES-702,texample","RES-705,texample","RES-740,msobodytext","RES-790,warning","RES-819,texample","RES-1051,tableleft","RES-1121,msobodytext","RES-1527,theorem"],"биномиальные":["RES-690,msobodytext"],"бином":["RES-940,example"],"биномов":["RES-1527"],"биномом":["RES-1527,definition"]}

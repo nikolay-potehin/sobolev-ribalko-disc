@@ -1,0 +1,1 @@
+﻿{"хотя":["RES-33,msonormal"],"хотелось":["RES-24,msobodytext"],"хотите":["RES-17,msobodytext"]}

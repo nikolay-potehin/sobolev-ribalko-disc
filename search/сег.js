@@ -1,0 +1,1 @@
+﻿{"сегмент":["RES-672,example","RES-676,endst"],"сегмента":["RES-1675,example","RES-1724,pexample","RES-1787,dexample"]}

@@ -1,0 +1,1 @@
+﻿{"варианты":["RES-33,msonormal"],"вариантов":["RES-33,msonormal","RES-34,msobodytext"],"вариант":["RES-34,msobodytext"]}

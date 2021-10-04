@@ -1,0 +1,42 @@
+/*Руководитель проекта: Третьяков В.С.
+Разработка:Савельев А.А., Трояновский М.Б., Титов И.В.,  Катков А.Ю., Громов И.В.
+Дизайн: Щербаков А.В.
+ГОУ ВПО "УГТУ-УПИ имени первого Президента России Б.Н.Ельцина"
+Центр Информационного компьютерного обеспечения 2008-2009г*/
+.tree-icon-lecture{	
+	background-image: url(./imgs/lecture.gif) !important;
+}
+.tree-icon-practice{	
+	background-image: url(./imgs/practice.gif) !important;
+}
+.tree-icon-common{	
+	background-image: url(./imgs/common.gif) !important;
+}
+.tree-icon-homework{	
+	background-image: url(./imgs/homework.gif) !important;
+}
+.tree-icon-test{	
+	background-image: url(./imgs/test.gif) !important;
+}
+.tree-icon-resource{	
+	background-image: url(./imgs/default.png) !important;
+}
+/*--*/
+.tree-icon-lecture-folder{	
+	background-image: url(./imgs/folders/lecture.png) !important;
+}
+.tree-icon-practice-folder{	
+	background-image: url(./imgs/folders/practice.png) !important;
+}
+.tree-icon-common-folder{	
+	background-image: url(./imgs/folders/common.png) !important;
+}
+.tree-icon-homework-folder{	
+	background-image: url(./imgs/folders/homework.png) !important;
+}
+.tree-icon-test-folder{	
+	background-image: url(./imgs/folders/test.png) !important;
+}
+.tree-icon-resource-folder{	
+	background-image: url(./imgs/folders/default.png) !important;
+}

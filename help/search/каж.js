@@ -1,0 +1,1 @@
+﻿{"каждый":["RES-4,msobodytext","RES-14,msobodytext"],"каждого":["RES-4,msobodytext","RES-11,msobodytext"],"каждая":["RES-6,msobodytext"]}

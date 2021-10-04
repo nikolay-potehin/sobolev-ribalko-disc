@@ -1,0 +1,1 @@
+﻿{"рассмотрим":["RES-4,msobodytext","RES-25,msobodytext"],"рассматриваемых":["RES-5,msobodytext"],"расширенные":["RES-35,msobodytext"],"расположенных":["RES-20,msobodytext"],"расположенная":["RES-20,msobodytext"],"расположенной":["RES-24,msobodytext","RES-17,msobodytext"],"расположенные":["RES-15,msobodytext"],"расположен":["RES-16,msobodytext"]}

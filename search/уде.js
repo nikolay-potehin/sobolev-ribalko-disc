@@ -1,0 +1,1 @@
+﻿{"уделено":["RES-1970,beginst","RES-1980,beginst","RES-2062,beginst"],"удельным":["RES-1718,msobodytext"],"удельный":["RES-1784,pexample"]}

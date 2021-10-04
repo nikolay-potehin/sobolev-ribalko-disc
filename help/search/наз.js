@@ -1,0 +1,1 @@
+﻿{"назначение":["RES-5,msobodytext","RES-6,msobodytext","RES-7,msobodytext","RES-25,msobodytext","RES-26,msobodytext","RES-27,msobodytext"],"название":["RES-20,msonormal","RES-26,msobodytext","RES-17,msobodytext"],"названию":["RES-21,msobodytext","RES-14,msobodytext"],"названия":["RES-26,msobodytext,signature"],"названиями":["RES-14,msobodytext"]}

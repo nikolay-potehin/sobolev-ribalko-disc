@@ -1,0 +1,1 @@
+﻿{"выяснять":["RES-269,endst","RES-182,endst"],"выяснить":["RES-477,pexample","RES-906,dexample","RES-1125,texample","RES-1398,dexample","RES-1643,pexample","RES-1669,dexample"],"выясним":["RES-846,pexample","RES-1166,example","RES-1253,pexample","RES-1254,pexample","RES-1800,msobodytext"],"выяснения":["RES-158,endst"]}

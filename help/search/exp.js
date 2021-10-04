@@ -1,0 +1,1 @@
+﻿{"explorer":["RES-35,msobodytext"]}

@@ -1,0 +1,1 @@
+﻿{"ближайшей":["RES-438,msobodytext","RES-536,msobodytext","RES-598,msobodytext","RES-1270,pexample"],"ближе":["RES-770,msobodytext","RES-1043,warning","RES-1205,texample"]}

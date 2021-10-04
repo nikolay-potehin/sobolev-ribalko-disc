@@ -1,0 +1,146 @@
+<html>
+<head>
+<title>3. Обратная матрица.</title>
+<link rel="stylesheet" href="../text.css" />
+</head><body><div id=p6 parent="p_main.p1.p3"><div id=title>3. Обратная матрица.</div>
+
+<div id=block class="Definition">
+<div style="text-indent:1cm">Квадратная матрица <img align=absmiddle src="img/image035.gif"> <img align=absmiddle
+src="img/image048.gif">-го порядка называется <b>вырожденной</b>,
+если определитель этой матрицы равен нулю, <img align=absmiddle src="img/image049.gif">,
+и <b>невырожденной</b>, если <img align=absmiddle src="img/image050.gif">.</div>
+</div>
+
+
+
+<div id=block class="Definition">
+<div style="text-indent:1cm">Матрица <img align=absmiddle src="img/image051.gif"> называется <b>обратной</b>
+<b>матрицей</b> для некоторой квадратной матрицы 
+<span><img align=absmiddle src="img/image035.gif">
+<span id="description">
+
+Произведение
+матрицы на обратную к ней 
+
+</span>
+</span>,
+если выполняется соотношение: <img align=absmiddle src="img/image052.gif">.</div>
+</div>
+
+<div id=block class="MsoBodyText">
+<div class="MsoBodyText"><b>Основные методы вычисления обратной матрицы</b></div>
+
+<div class="MsoBodyText"><b>Метод присоединенной матрицы</b></div>
+</div>
+
+<div id=block class="Theorem">
+<div style="text-indent:1cm"><b>Теорема о существовании и единственности обратной матрицы.</b></div>
+
+<div style="text-indent:1cm">Если матрица <img align=absmiddle src="img/image035.gif"> не вырождена, то
+существует, и притом единственная, обратная матрица 
+<span><img align=absmiddle src="img/image051.gif">
+<span id="description">
+
+Формула
+нахождения обратной матрицы к данной
+
+</span>
+</span>,
+равная <img align=absmiddle src="img/image053.gif">,
+где <img align=absmiddle
+src="img/image054.gif">- присоединенная матрица (матрица,
+составленная из алгебраических дополнений элементов исходной матрицы).</div>
+</div>
+
+<div id=block class="Properties">
+<div>1&#730;. 
+<span><img align=absmiddle src="img/image055.gif">
+<span id="description">
+
+Обращение
+обратной матрицы дает исходную матрицу
+
+</span>
+</span>.</div>
+</div>
+
+
+
+<div id=block class="Properties">
+<div>2&#730;. 
+<span><img align=absmiddle src="img/image056.gif">
+<span id="description">
+
+Вынесение
+числа за знак обратной матрицы
+
+</span>
+</span>.</div>
+</div>
+
+
+
+<div id=block class="Properties">
+<div>3&#730;. 
+<span><img align=absmiddle src="img/image057.gif">
+<span id="description">
+
+Обратная
+матрица произведения двух матриц
+
+</span>
+</span>.</div>
+</div>
+
+
+
+<div id=block class="Properties">
+<div>4&#730;. 
+<span><img align=absmiddle src="img/image058.gif">
+<span id="description">
+
+Транспонирование
+обратной матрицы
+
+</span>
+</span>.</div>
+</div>
+
+<div id=block class="MsoBodyText">
+<div class="MsoBodyText"><b>Алгоритм нахождения обратной матрицы с помощью
+присоединенной матрицы:</b></div>
+
+<div>1.Находим
+<img align=absmiddle
+src="img/image059.gif">, проверяем <img align=absmiddle src="img/image060.gif">.</div>
+
+<div>2.Находим
+<img align=absmiddle
+src="img/image061.gif"> - все миноры матрицы <img align=absmiddle
+src="img/image035.gif">.</div>
+
+<div>3.Определяем
+<img align=absmiddle
+src="img/image062.gif">.</div>
+
+<div>4.Строим
+матрицу алгебраических дополнений <img align=absmiddle src="img/image054.gif"> и транспонируем: <img align=absmiddle
+src="img/image063.gif">.</div>
+
+<div>5.Делим
+каждый элемент матрицы на <img align=absmiddle src="img/image059.gif">: <img align=absmiddle
+src="img/image053.gif">.</div>
+
+<div class="MsoBodyText"><b>Метод элементарных преобразований</b></div>
+
+<div class="MsoBodyText">Для невырожденной матрицы <img align=absmiddle src="img/image035.gif"> <img align=absmiddle
+src="img/image048.gif">-го порядка построим прямоугольную
+матрицу <img align=absmiddle
+src="img/image064.gif"> размера <img align=absmiddle src="img/image065.gif">,
+приписывая к <img align=absmiddle
+src="img/image035.gif"> справа единичную матрицу. Используя
+элементарные преобразования над строками, приводим эту матрицу к виду <img align=absmiddle
+src="img/image066.gif">.</div>
+</div>
+
+</div></body></html>

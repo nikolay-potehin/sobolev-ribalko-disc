@@ -1,0 +1,1 @@
+﻿{"мыши":["RES-20,msonormal","RES-25,msobodytext","RES-26,msobodytext","RES-11,msobodytext"]}

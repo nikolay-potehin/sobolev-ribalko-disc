@@ -1,0 +1,1 @@
+﻿{"векторной":["RES-4,msonormal"],"вектора":["RES-34,msonormal"]}

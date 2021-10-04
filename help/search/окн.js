@@ -1,0 +1,1 @@
+﻿{"окне":["RES-35,msobodytext"],"окно":["RES-25,msobodytext","RES-26,msobodytext","RES-11,msobodytext"],"окна":["RES-25,signature","RES-26,signature","RES-13,msobodytext"]}

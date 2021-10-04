@@ -1,0 +1,1 @@
+﻿{"изучения":["RES-5,msonormal"],"изучаемому":["RES-6,msobodytext"],"изучаемой":["RES-8,msobodytext"]}

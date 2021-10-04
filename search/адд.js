@@ -1,0 +1,1 @@
+﻿{"аддитивность":["RES-1620,properties","RES-1634,properties"]}

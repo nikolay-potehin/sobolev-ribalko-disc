@@ -1,0 +1,1 @@
+﻿{"огибающей":["RES-1876,definition"],"огибающую":["RES-1876,msobodytext"],"огибающая":["RES-1876,msobodytext","RES-1884,msobodytext"],"огибающие":["RES-1876,example","RES-1908,pexample"]}

@@ -1,0 +1,1 @@
+﻿{"неубывающей":["RES-683,definition","RES-1156,theorem,provingtheorem"],"неубывающие":["RES-683,definition","RES-1308,definition"],"неубывающая":["RES-683,example,theorem,provingtheorem,warning","RES-746,definition","RES-858,definition","RES-1156,definition,provingtheorem","RES-1308,definition"],"неустранимый":["RES-795,definition","RES-872,definition","RES-933,definition"]}

@@ -1,0 +1,1 @@
+﻿{"авторы":["RES-1,msobodytext"],"автомашины":["RES-1271,pexample"],"автомобиль":["RES-1272,pexample"]}

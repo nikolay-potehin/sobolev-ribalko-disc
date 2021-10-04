@@ -1,0 +1,1 @@
+﻿{"нужно":["RES-24,msobodytext"],"нужной":["RES-17,msobodytext"],"нужный":["RES-17,msobodytext"]}

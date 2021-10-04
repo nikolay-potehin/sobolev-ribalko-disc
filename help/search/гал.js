@@ -1,0 +1,1 @@
+﻿{"галочки":["RES-33,msonormal"],"галочку":["RES-35,msobodytext"]}

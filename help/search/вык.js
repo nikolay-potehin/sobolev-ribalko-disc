@@ -1,0 +1,1 @@
+﻿{"выключен":["RES-16,msobodytext"],"выключения":["RES-16,msobodytext"]}

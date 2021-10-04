@@ -1,0 +1,1 @@
+﻿{"навыков":["RES-5,msobodytext"],"навести":["RES-20,msonormal"],"навигации":["RES-20,msonormal","RES-11,msonormal,msobodytext","RES-13,msobodytext,signature","RES-15,msobodytext","RES-16,msobodytext","RES-17,msobodytext","ACT-12"],"наведите":["RES-25,msobodytext","RES-26,msobodytext"]}

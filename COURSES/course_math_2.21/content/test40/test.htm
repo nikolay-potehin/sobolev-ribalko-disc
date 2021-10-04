@@ -1,0 +1,703 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Transitional//EN">
+<html xmlns="http://www.w3.org/1999/xhtml" >
+<head>
+<meta http-equiv=Content-Type content="text/html; charset=windows-1251" />
+<meta http-equiv=Content-Style-Type content="text/css" />
+<!--
+Разработка выполнена ЦИКО ИОИТ УГТУ-УПИ
+Авторы: Алексей Катков, Игорь Титов, Василий Третьяков, Андрей Савельев, Игорь Громов, Михаил Трояновский
+Техническая поддержка, консультация по вопросам использования: vs.tretyakov@net-ustu.ru
+-->
+<link rel="stylesheet" type="text/css" href="script\test.css" />
+<script>
+	var testapi={
+		selection: [[1,5]],
+		shuffle:true
+		}
+</script><script src="script\mootools.js"></script>
+<script src="script\test_main.js"></script>
+<title>Параметричекая производная функции</title>
+</head>
+<body onload="setTimeout('init()',100);">
+<div id="title">Дифференциальное исчисление Производная функции</div>
+<div id=loading_label style="width:100%;height:80%;font-size:1.3em;text-align:center;">  <br />  Подготовка вопросов...</div><div id="task"></div>
+
+<form name="test" style="display:none;"><div id="questions" guid='9M5BS664KL2KACGTHYBC' ><div id="question" ref="2.2.0.3.-1.">Найти
+производную <img align=absmiddle width=45 height=27
+src="fig/image001.gif"> функции <img align=absmiddle width=37 height=27 src="fig/image002.gif">,
+заданной параметрически <img align=absmiddle
+width=79 height=56 src="fig/image003.gif"><br />
+Варианты ответа:
+
+<div id="answer" type="radio" right="6905693"><span id="points">1б</span><br />
+
+<span id="element"><span id="n">а</span> <img align=absmiddle width=213 height=60 src="fig/image004.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">б</span> <img align=absmiddle width=165 height=57 src="fig/image005.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">в</span> <img align=absmiddle width=173 height=44 src="fig/image006.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">г</span> <img align=absmiddle width=165 height=44 src="fig/image007.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">д</span> <img align=absmiddle width=148 height=41 src="fig/image008.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">е</span> <img align=absmiddle width=164 height=47 src="fig/image009.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">ж</span> <img align=absmiddle width=164 height=47 src="fig/image010.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">з</span> <img align=absmiddle width=165 height=43 src="fig/image011.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">и</span> <img align=absmiddle width=241 height=29 src="fig/image012.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">к</span> <img align=absmiddle width=235 height=27 src="fig/image013.gif"> 
+
+<br />
+</span>
+<span id="element"><span id="n">л</span> среди предложенных вариантов
+ответа нет правильного
+
+<br />
+</span>
+
+<input id="answer_string">
+</div></div><div id="question" ref="2.2.0.3.-2.">Найти
+производную <img align=absmiddle width=45 height=27
+src="fig/image001.gif"> функции <img align=absmiddle width=37 height=27 src="fig/image002.gif">,
+заданной параметрически <img align=absmiddle
+width=61 height=56 src="fig/image014.gif"><br />
+Варианты ответа:
+
+<div id="answer" type="radio" right="3040605"><span id="points">1б</span><br />
+
+<span id="element"><span id="n">а</span> <img align=absmiddle width=159 height=63 src="fig/image015.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">б</span> <img align=absmiddle width=189 height=81 src="fig/image016.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">в</span> <img align=absmiddle width=159 height=63 src="fig/image017.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">г</span> <img align=absmiddle width=127 height=63 src="fig/image018.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">д</span> <img align=absmiddle width=127 height=63 src="fig/image019.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">е</span> <img align=absmiddle width=132 height=63 src="fig/image020.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">ж</span> <img align=absmiddle width=101 height=47 src="fig/image021.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">з</span> <img align=absmiddle width=92 height=47 src="fig/image022.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">и</span> <img align=absmiddle width=111 height=47 src="fig/image023.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">к</span> <img align=absmiddle width=111 height=47 src="fig/image024.gif"> 
+
+<br />
+</span>
+<span id="element"><span id="n">л</span> среди предложенных вариантов
+ответа нет правильного
+
+<br />
+</span>
+
+<input id="answer_string">
+</div></div><div id="question" ref="2.2.0.3.-3.">Найти
+производную <img align=absmiddle width=45 height=27
+src="fig/image001.gif"> функции <img align=absmiddle width=37 height=27 src="fig/image002.gif">,
+заданной параметрически <img align=absmiddle
+width=85 height=48 src="fig/image025.gif"><br />
+Варианты ответа:
+
+<div id="answer" type="radio" right="9979579"><span id="points">1б</span><br />
+
+<span id="element"><span id="n">а</span> <img align=absmiddle width=232 height=41 src="fig/image026.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">б</span> <img align=absmiddle width=183 height=41 src="fig/image027.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">в</span> <img align=absmiddle width=12 height=19 src="fig/image028.gif"><img align=absmiddle width=125 height=41
+src="fig/image029.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">г</span> <img align=absmiddle width=159 height=41 src="fig/image030.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">д</span> <img align=absmiddle width=159 height=43 src="fig/image031.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">е</span> <img align=absmiddle width=159 height=43 src="fig/image032.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">ж</span> <img align=absmiddle width=113 height=41 src="fig/image033.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">з</span> <img align=absmiddle width=124 height=41 src="fig/image034.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">и</span> <img align=absmiddle width=183 height=41 src="fig/image035.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">к</span> <img align=absmiddle width=183 height=43 src="fig/image036.gif"> 
+
+<br />
+</span>
+<span id="element"><span id="n">л</span> среди предложенных вариантов
+ответа нет правильного
+
+<br />
+</span>
+
+<input id="answer_string">
+</div></div><div id="question" ref="2.2.0.3.-4.">Найти
+производную <img align=absmiddle width=45 height=27
+src="fig/image001.gif"> функции <img align=absmiddle width=37 height=27 src="fig/image002.gif">,
+заданной параметрически <img align=absmiddle
+width=77 height=48 src="fig/image037.gif"><br />
+Варианты ответа:
+
+<div id="answer" type="radio" right="-2965463"><span id="points">1б</span><br />
+
+<span id="element"><span id="n">а</span> <img align=absmiddle width=216 height=41 src="fig/image038.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">б</span> <img align=absmiddle width=171 height=41 src="fig/image039.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">в</span> <img align=absmiddle width=12 height=19 src="fig/image028.gif"><img align=absmiddle width=121 height=41
+src="fig/image040.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">г</span> <img align=absmiddle width=148 height=41 src="fig/image041.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">д</span> <img align=absmiddle width=148 height=43 src="fig/image042.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">е</span> <img align=absmiddle width=148 height=43 src="fig/image043.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">ж</span> <img align=absmiddle width=113 height=41 src="fig/image033.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">з</span> <img align=absmiddle width=107 height=41 src="fig/image044.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">и</span> <img align=absmiddle width=105 height=41 src="fig/image045.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">к</span> <img align=absmiddle width=107 height=41 src="fig/image046.gif"> 
+
+<br />
+</span>
+<span id="element"><span id="n">л</span> среди предложенных вариантов
+ответа нет правильного
+
+<br />
+</span>
+
+<input id="answer_string">
+</div></div><div id="question" ref="2.2.0.3.-5.">Найти
+производную <img align=absmiddle width=45 height=27
+src="fig/image001.gif"> функции <img align=absmiddle width=37 height=27 src="fig/image002.gif">,
+заданной параметрически <img align=absmiddle
+width=103 height=77 src="fig/image047.gif"><br />
+Варианты ответа:
+
+<div id="answer" type="radio" right="-8506181"><span id="points">1б</span><br />
+
+<span id="element"><span id="n">а</span> <img align=absmiddle width=229 height=63 src="fig/image048.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">б</span> <img align=absmiddle width=179 height=63 src="fig/image049.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">в</span> <img align=absmiddle width=179 height=63 src="fig/image050.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">г</span> <img align=absmiddle width=173 height=63 src="fig/image051.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">д</span> <img align=absmiddle width=172 height=59 src="fig/image052.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">е</span> <img align=absmiddle width=171 height=60 src="fig/image053.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">ж</span> <img align=absmiddle width=171 height=60 src="fig/image054.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">з</span> <img align=absmiddle width=172 height=60 src="fig/image055.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">и</span> <img align=absmiddle width=172 height=67 src="fig/image056.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">к</span> <img align=absmiddle width=164 height=60 src="fig/image057.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">л</span> среди предложенных вариантов
+ответа нет правильного
+
+<br />
+</span>
+
+<input id="answer_string">
+</div></div><div id="question" ref="2.2.0.3.-6.">Найти
+производную <img align=absmiddle width=45 height=27
+src="fig/image001.gif"> функции <img align=absmiddle width=37 height=27 src="fig/image002.gif">,
+заданной параметрически <img align=absmiddle
+width=175 height=64 src="fig/image058.gif"><br />
+Варианты ответа:
+
+<div id="answer" type="radio" right="4282130"><span id="points">1б</span><br />
+
+<span id="element"><span id="n">а</span> <img align=absmiddle width=285 height=27 src="fig/image059.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">б</span> <img align=absmiddle width=296 height=27 src="fig/image060.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">в</span> <img align=absmiddle width=296 height=27 src="fig/image061.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">г</span> <img align=absmiddle width=317 height=69 src="fig/image062.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">д</span> <img align=absmiddle width=307 height=69 src="fig/image063.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">е</span> <img align=absmiddle width=307 height=69 src="fig/image064.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">ж</span> <img align=absmiddle width=355 height=69 src="fig/image065.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">з</span> <img align=absmiddle width=375 height=69 src="fig/image066.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">и</span> <img align=absmiddle width=216 height=59 src="fig/image067.gif">
+
+<br />
+</span>
+<span id="element"><span id="n">к</span> <img align=absmiddle width=216 height=59 src="fig/image068.gif"> 
+
+<br />
+</span>
+<span id="element"><span id="n">л</span> среди предложенных вариантов
+ответа нет правильного
+
+<br />
+</span>
+
+<input id="answer_string">
+</div></div><div id="question" ref="2.2.0.3.-7.">Найти
+производную <img align=absmiddle width=45 height=27
+src="fig/image001.gif"> функции <img align=absmiddle width=37 height=27 src="fig/image002.gif">,
+заданной параметрически <img align=absmiddle
+width=191 height=56 src="fig/image069.gif"><span class=ab>.<br />
+</span>Варианты ответа:
+
+<div id="answer" type="radio" right="4598248"><span id="points">1б</span><br />
+
+<span id="element"><span id="n">а</span> <img align=absmiddle width=200 height=35 src="fig/image070.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">б</span> <img align=absmiddle width=184 height=27 src="fig/image071.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">в</span> <img align=absmiddle width=184 height=27 src="fig/image072.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">г</span> <img align=absmiddle width=135 height=47 src="fig/image073.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">д</span> <img align=absmiddle width=135 height=49 src="fig/image074.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">е</span> <img align=absmiddle width=136 height=49 src="fig/image075.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">ж</span> <img align=absmiddle width=136 height=49 src="fig/image076.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">з</span> <img align=absmiddle width=136 height=49 src="fig/image077.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">и</span> <img align=absmiddle width=219 height=53 src="fig/image078.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">к</span> <img align=absmiddle width=199 height=53 src="fig/image079.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">л</span> среди предложенных вариантов
+ответа нет правильного
+
+<br />
+</span>
+
+<input id="answer_string">
+</div></div><div id="question" ref="2.2.0.3.-8.">Найти
+производную <img align=absmiddle width=45 height=27
+src="fig/image001.gif"> функции <img align=absmiddle width=37 height=27 src="fig/image002.gif">,
+заданной параметрически <img align=absmiddle
+width=105 height=75 src="fig/image080.gif"><br />
+Варианты ответа:
+
+<div id="answer" type="radio" right="257902"><span id="points">1б</span><br />
+
+<span id="element"><span id="n">а</span> <img align=absmiddle width=180 height=88 src="fig/image081.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">б</span> <img align=absmiddle width=287 height=131 src="fig/image082.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">в</span> <img align=absmiddle width=272 height=131 src="fig/image083.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">г</span> <img align=absmiddle width=289 height=131 src="fig/image084.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">д</span>  <img align=absmiddle width=191 height=173 src="fig/image085.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">е</span> <img align=absmiddle width=149 height=128 src="fig/image086.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">ж</span> <img align=absmiddle width=144 height=127 src="fig/image087.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">з</span> <img align=absmiddle width=144 height=127 src="fig/image088.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">и</span> <img align=absmiddle width=184 height=131 src="fig/image089.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">к</span> <img align=absmiddle width=165 height=131 src="fig/image090.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">л</span> среди предложенных вариантов
+ответа нет правильного
+
+<br />
+</span>
+
+<input id="answer_string">
+</div></div><div id="question" ref="2.2.0.3.-9.">Найти
+производную <img align=absmiddle width=45 height=27
+src="fig/image001.gif"> функции <img align=absmiddle width=37 height=27 src="fig/image002.gif">,
+заданной параметрически <img align=absmiddle
+width=87 height=56 src="fig/image091.gif"><br />
+Варианты ответа:
+
+<div id="answer" type="radio" right="9541203"><span id="points">1б</span><br />
+
+<span id="element"><span id="n">а</span> <img align=absmiddle width=173 height=51 src="fig/image092.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">б</span> <img align=absmiddle width=205 height=67 src="fig/image093.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">в</span> <img align=absmiddle width=239 height=67 src="fig/image094.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">г</span> <img align=absmiddle width=227 height=67 src="fig/image095.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">д</span> <img align=absmiddle width=227 height=60 src="fig/image096.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">е</span> <img align=absmiddle width=197 height=52 src="fig/image097.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">ж</span> <img align=absmiddle width=197 height=52 src="fig/image098.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">з</span>  <img align=absmiddle width=195 height=52 src="fig/image099.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">и</span> <img align=absmiddle width=173 height=51 src="fig/image100.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">к</span>  <img align=absmiddle width=188 height=52 src="fig/image101.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">л</span> среди предложенных вариантов
+ответа нет правильного
+
+<br />
+</span>
+
+<input id="answer_string">
+</div></div><div id="question" ref="2.2.0.3.-10.">Найти
+производную <img align=absmiddle width=45 height=27
+src="fig/image001.gif"> функции <img align=absmiddle width=37 height=27 src="fig/image002.gif">,
+заданной параметрически <img align=absmiddle
+width=111 height=56 src="fig/image102.gif"><br />
+Варианты ответа:
+
+<div id="answer" type="radio" right="9769224"><span id="points">1б</span><br />
+
+<span id="element"><span id="n">а</span> <img align=absmiddle width=121 height=51 src="fig/image103.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">б</span> <img align=absmiddle width=121 height=51 src="fig/image104.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">в</span> <img align=absmiddle width=128 height=51 src="fig/image105.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">г</span> <img align=absmiddle width=137 height=51 src="fig/image106.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">д</span> <img align=absmiddle width=137 height=51 src="fig/image107.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">е</span> <img align=absmiddle width=148 height=63 src="fig/image108.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">ж</span> <img align=absmiddle width=148 height=63 src="fig/image109.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">з</span> <img align=absmiddle width=148 height=63 src="fig/image109.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">и</span> <img align=absmiddle width=140 height=63 src="fig/image110.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">к</span> <img align=absmiddle width=140 height=63 src="fig/image111.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">л</span> среди предложенных вариантов
+ответа нет правильного
+
+<br />
+</span>
+
+<input id="answer_string">
+</div></div><div id="question" ref="2.2.0.3.-11.">Найти
+производную <img align=absmiddle width=45 height=27
+src="fig/image001.gif"> функции <img align=absmiddle width=37 height=27 src="fig/image002.gif">,
+заданной параметрически <img align=absmiddle
+width=123 height=75 src="fig/image112.gif"><br />
+Варианты ответа:
+
+<div id="answer" type="radio" right="-7453003"><span id="points">1б</span><br />
+
+<span id="element"><span id="n">а</span> <img align=absmiddle width=315 height=93 src="fig/image113.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">б</span> <img align=absmiddle width=335 height=93 src="fig/image114.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">в</span> <img align=absmiddle width=335 height=93 src="fig/image115.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">г</span> <img align=absmiddle width=320 height=91 src="fig/image116.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">д</span> <img align=absmiddle width=339 height=93 src="fig/image117.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">е</span> <img align=absmiddle width=339 height=93 src="fig/image118.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">ж</span> <img align=absmiddle width=347 height=93 src="fig/image119.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">з</span> <img align=absmiddle width=368 height=93 src="fig/image120.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">и</span> <img align=absmiddle width=368 height=93 src="fig/image121.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">к</span> <img align=absmiddle width=351 height=93 src="fig/image122.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">л</span> среди предложенных вариантов
+ответа нет правильного
+
+<br />
+</span>
+
+<input id="answer_string">
+</div></div><div id="question" ref="2.2.0.3.-12.">Найти
+производную <img align=absmiddle width=45 height=27
+src="fig/image001.gif"> функции <img align=absmiddle width=37 height=27 src="fig/image002.gif">,
+заданной параметрически <img align=absmiddle
+width=77 height=96 src="fig/image123.gif"><br />
+Варианты ответа:
+
+<div id="answer" type="radio" right="-9015018"><span id="points">1б</span><br />
+
+<span id="element"><span id="n">а</span> <img align=absmiddle width=227 height=73 src="fig/image124.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">б</span> <img align=absmiddle width=227 height=73 src="fig/image125.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">в</span> <img align=absmiddle width=227 height=73 src="fig/image126.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">г</span> <img align=absmiddle width=227 height=73 src="fig/image127.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">д</span> <img align=absmiddle width=212 height=67 src="fig/image128.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">е</span> <img align=absmiddle width=211 height=67 src="fig/image129.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">ж</span> <img align=absmiddle width=211 height=67 src="fig/image130.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">з</span> <img align=absmiddle width=211 height=67 src="fig/image131.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">и</span> <img align=absmiddle width=211 height=67 src="fig/image132.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">к</span> <img align=absmiddle width=205 height=67 src="fig/image133.gif">,
+
+<br />
+</span>
+<span id="element"><span id="n">л</span> среди предложенных вариантов
+ответа нет правильного
+
+<br />
+</span>
+
+<input id="answer_string">
+</div></div></div>
+<div id="results"></div>
+<div id="buttons"><div id="check"><input  class="main" type="Button" value="Проверить" onclick="return false;"></div>
+<div id="clear"><input class="main" type="Button" value="Начать заново" onclick="window.location.href=window.location.href;"></div></div></form>
+<div id="active_elements"></div></body></html>

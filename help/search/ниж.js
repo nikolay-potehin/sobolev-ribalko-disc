@@ -1,0 +1,1 @@
+﻿{"нижней":["RES-30,msobodytext"],"ниже":["RES-14,msobodytext"]}

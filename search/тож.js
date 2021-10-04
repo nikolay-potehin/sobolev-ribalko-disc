@@ -1,0 +1,1 @@
+﻿{"тождество":["RES-288,pexample","RES-301,pexample","RES-781,provingtheorem","RES-950,msobodytext","RES-1093,msonormal","RES-102,dexample","RES-1866,definition","RES-1870,definition"],"тоже":["RES-858,msobodytext","RES-1166,example","RES-1253,pexample","RES-1806,example","RES-1839,pexample"],"тождества":["RES-149,definition"]}

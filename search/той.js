@@ -1,0 +1,1 @@
+﻿{"той":["RES-10,msobodytext","RES-926,definition","RES-1332,theorem","RES-1351,next","RES-1495,endst","RES-1558,endst","RES-1595,endst","RES-1787,dexample","RES-1876,definition"]}

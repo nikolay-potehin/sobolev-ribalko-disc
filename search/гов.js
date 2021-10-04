@@ -1,0 +1,1 @@
+﻿{"говорят":["RES-203,definition","RES-12,definition","RES-680,definition","RES-745,definition","RES-858,definition","RES-1164,definition","RES-1310,warning","RES-1330,warning","RES-1799,msobodytext"],"говоря":["RES-203,definition","RES-12,definition,properties","RES-777,theorem","RES-1521,example"],"говорить":["RES-1164,definition"]}

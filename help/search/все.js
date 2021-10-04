@@ -1,0 +1,1 @@
+﻿{"все":["RES-5,msobodytext","RES-32,msobodytext","RES-33,msonormal","RES-35,msobodytext","RES-21,msobodytext","RES-11,msobodytext","RES-14,msobodytext,signature","RES-16,msobodytext"],"всех":["RES-6,msobodytext"],"всего":["RES-21,msobodytext"],"всегда":["RES-24,msonormal,msobodytext"],"всей":["RES-14,signature"],"всему":["RES-17,msobodytext"]}

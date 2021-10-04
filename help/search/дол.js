@@ -1,0 +1,1 @@
+﻿{"должен":["RES-5,msobodytext","RES-6,msobodytext","RES-33,msobodytext,msonormal","RES-34,msobodytext,msonormal","RES-35,msobodytext","RES-25,msobodytext"],"долей":["RES-34,msonormal"]}

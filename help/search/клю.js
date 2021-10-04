@@ -1,0 +1,1 @@
+﻿{"ключом":["RES-35,msobodytext"],"ключевым":["RES-17,msobodytext"],"ключевого":["RES-17,msonormal"],"ключевое":["RES-17,msobodytext"],"ключевому":["RES-17,msobodytext"]}

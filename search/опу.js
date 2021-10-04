@@ -1,0 +1,1 @@
+﻿{"опустим":["RES-282,pexample","RES-685,warning"],"опущенного":["RES-335,definition","RES-334,msobodytext","RES-389,dexample","RES-472,pexample"],"опущенной":["RES-334,msobodytext"],"опуская":["RES-433,msobodytext","RES-513,msobodytext"],"опущенный":["RES-887,pexample"],"опускать":["RES-1157,warning"]}

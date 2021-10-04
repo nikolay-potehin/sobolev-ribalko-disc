@@ -1,0 +1,217 @@
+/*Руководитель проекта: Третьяков В.С.
+Разработка:Савельев А.А., Трояновский М.Б., Титов И.В.,  Катков А.Ю., Громов И.В.
+Дизайн: Щербаков А.В.
+ГОУ ВПО "УГТУ-УПИ имени первого Президента России Б.Н.Ельцина"
+Центр Информационного компьютерного обеспечения 2008-2009г*/
+/*иконки для навигации*/
+.nav-up{	
+	background-image: url(./imgs/nav-icons/up.png) !important;
+}
+.nav-left{	
+	background-image: url(./imgs/nav-icons/left.png) !important;
+}
+.nav-right{	
+	background-image: url(./imgs/nav-icons/right.png) !important;
+}
+.find{	
+	background-image: url(./imgs/find.png) !important;
+}
+.search{	
+	background-image: url(./imgs/search.png) !important;
+}
+.help{	
+	background-image: url(./imgs/help.png) !important;
+}
+.delete{	
+	background-image: url(./imgs/cancel.png) !important;
+}
+.bookmark-icon{	
+	background-image: url(./imgs/bookmark.png) !important;
+}
+.link-icon{
+	background-image: url(./imgs/link.png) !important;
+}
+.note-icon-add{
+	background-image: url(./imgs/note.png) !important;
+}
+/*------------------------------*/
+/*листинг дерева*/
+.folder{
+	text-align:left;
+	font-family:Verdana;
+	font-size:large;
+	padding:3px;
+	padding-left:15px;
+	color:#15428b;	
+}
+.folder a{
+	color:#15428b;	
+	text-decoration:none;
+}
+.folder a:hover{
+	text-decoration:underline;
+}
+.file{
+	padding-left:25px;
+	margin:3px;
+	font-family:Verdana;
+	font-size:small;
+}
+.file a{
+	color:black;	
+	text-decoration:none;
+}
+.file a:hover{
+	text-decoration:underline;
+}
+
+/*css для учебника*/
+/* ver. 1.00 */
+
+#main {font-family:Arial; color: #000033;padding:3px;}
+
+#main #title{text-align:center;display:block;color:#000099;display:none;}
+
+#main div.service{font-size: 0.9em;}
+#main div.indent{margin-left:10px;margin-top:3pt;}
+
+#main div{text-align:justify;margin-top:5pt;margin-bottom:5pt;}
+div #title{font-size: 2.0em;}
+div div #title{font-size: 1.8em;}
+div div div #title{font-size: 1.6em;}
+div div div div #title{font-size: 1.4em;}
+div div div div div #title{font-size: 1.2em;}
+div div div div div div #title{font-size: 1.0em;}
+
+#main table{font-family:Arial; text-align:center;margin-top:10pt;font-size: 0.9em;border-width:2px;border-style:solid;padding:0px;border-collapse: collapse;border-color:#000000;color:#000033;}
+#main td{border-style:solid;border-width:1px;padding:3px 15px;margin:0px;}
+#main td.separator{font-weight:bold;background-color:#F8F8FF;}
+#main thead{background-color:#EEEEFF;font-size: 0.9em;font-weight:bold;}
+#main table.invisible_grid{font-family:Arial; text-align:left;margin:3px;border-style:none;padding:0px;border-collapse: collapse;width:98%;color:#000033;}
+#main table.invisible_grid td{border-style:none;border-width:0px;padding:0px;margin:0px;}
+#main a {color:#884488; text-decoration: underline;cursor:hand;}
+#main a:hover { text-decoration: underline; color: #BB77BB;}
+
+#main b{color:#447;}
+
+.acronym {border-bottom : 1px dotted; cursor : help;}
+
+#main .service{color:#440000;font-style:italic;}
+#main .technical{color:#000044;font-size:0.7em;margin-top:5pt;}
+#main .hidden{display:none;}
+#main .temp{color:#009900;font-style:italic;}
+#main .signature{font-style:italic;font-family:serif;text-align:right;}
+#main .picture{font-style:italic;text-align:center; font-size: 0.9em;}
+#main .formula{margin-left:50px;}
+#main .program{padding-left:25px;margin-right:25px;margin-left:25px;font-family:Courier;margin-top:0px;margin-bottom:0px;background:#eee;}
+#main .program div{margin-top:0px;}
+#main .symbol{font-family:Symbol;}
+#main .Wingdings{font-family:Wingdings;}
+#main .accent{color:#EE0000;font-weight:bold;}
+#main .caption{text-align:center;font-size: 1.1em;font-weight:bold;}
+#main .MsoBodyText{text-indent:20pt;}
+
+#main .centred{text-align:center;}
+#main .centred div{text-align:center;}
+#main .green{color:green;}
+
+#main .footnote{border-bottom : 1px solid; cursor : help;color:green;font-weight:bold;}
+
+#main .action_button 
+{
+	font-size:1.2em;
+	
+	text-decoration:none;
+	color:#000099;
+	font-family:Wingdings;
+}
+
+#main .action_button:hover
+{
+	color:#CCCCFF;
+	text-decoration:none;
+}
+#block{
+	border-style:dashed;border-width:1px;border-color:white;
+	background-repeat:no-repeat;
+	background-position:2px 2px;
+	padding-left:20px;
+	padding-right:20px;
+	position:relative;
+}
+
+#block ol{
+	list-style:decimal inside ;	
+}
+#block ul{
+	list-style:disc inside ;	
+}
+
+#block.hoover{
+	border-style:dashed !important;
+	border-width:1px !important;
+	border-color:gray !important;
+}
+#block .subhoover{
+	visibility:hidden;
+}
+#block.hoover .subhoover{
+	visibility:visible;
+}
+#block.current{
+	border-color:#E9E9E9;
+}
+
+
+.link{	
+	position:absolute;
+	right:3px;	
+	top:3px;
+	width:16px;
+	height:16px;
+	background-image: url(./imgs/link.png) !important;
+	background-repeat:no-repeat;
+	cursor:hand;
+	cursor:pointer;
+}
+
+.bookmark-add{	
+	position:absolute;
+	display:none;
+	right:24px;
+	top:3px;
+	width:16px;
+	height:16px;
+	background-image: url(./imgs/bookmark.png) !important;
+	background-repeat:no-repeat;
+	cursor:hand;
+	cursor:pointer;
+}
+
+.note-add{	
+	position:absolute;
+	display:none;
+	right:44px;
+	top:3px;
+	width:16px;
+	height:16px;
+	/*background-image: url(../interface/imgs/bookmark.png) !important;*/
+	background-repeat:no-repeat;
+	cursor:hand;
+	cursor:pointer;
+}
+.show{
+	display:block;
+}
+
+.hoover .bookmark-add{
+	display:block;
+}
+
+.hoover .note-add{
+	display:block;
+}
+
+#description{
+	display:none;
+}

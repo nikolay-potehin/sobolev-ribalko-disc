@@ -1,0 +1,1 @@
+﻿{"снизу":["RES-673,definition,theorem,example,warning","RES-674,example","RES-683,theorem,warning","RES-693,texample","RES-732,dexample","RES-746,msobodytext,definition,example","RES-771,msobodytext","RES-858,definition,example","RES-1800,msobodytext","RES-1804,msobodytext","RES-1820,definition"],"снимем":["RES-1619,warning"]}

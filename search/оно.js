@@ -1,0 +1,1 @@
+﻿{"оно":["RES-2025,pexample","RES-2069,msobodytext","RES-220,theorem","RES-332,definition","RES-522,pexample","RES-673,warning","RES-745,msobodytext","RES-746,definition","RES-858,definition","RES-1270,pexample","RES-1866,definition","RES-1873,msobodytext","RES-1903,pexample"]}

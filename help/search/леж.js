@@ -1,0 +1,1 @@
+﻿{"лежит":["RES-4,msobodytext"]}

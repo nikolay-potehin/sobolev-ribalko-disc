@@ -1,0 +1,1 @@
+﻿{"широкого":["RES-202,beginst"],"широко":["RES-324,beginst","RES-7,beginst","RES-20,beginst","RES-763,msobodytext","RES-766,beginst","RES-1035,beginst","RES-1316,beginst","RES-1329,beginst"],"широких":["RES-1035,beginst"]}

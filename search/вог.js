@@ -1,0 +1,1 @@
+﻿{"вогнутости":["RES-1166,example","RES-1253,pexample"],"вогнут":["RES-1166,example","RES-1228,texample"],"вогнутым":["RES-1164,definition","RES-1310,warning"]}

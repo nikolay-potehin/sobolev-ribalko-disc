@@ -1,0 +1,1 @@
+﻿{"локальном":["RES-35,msobodytext"],"локальное":["RES-35,msobodytext"]}

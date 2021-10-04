@@ -1,0 +1,1 @@
+﻿{"гаусса":["RES-184,dexample","RES-194,msobodytext","RES-158,endst","RES-151","RES-154,warning,msobodytext","RES-182,endst","RES-168,msobodytext","RES-173,pexample","RES-177,pexample","RES-179,pexample","ACT-150"]}

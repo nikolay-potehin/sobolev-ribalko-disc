@@ -1,0 +1,1 @@
+﻿{"луча":["RES-557,pexample"],"луч":["RES-557,pexample","RES-573,dexample","RES-672,example","RES-676,endst","RES-906,dexample","RES-1291,pexample"],"лучу":["RES-537,definition","RES-1680,warning"],"лучей":["RES-573,dexample","RES-662,dexample"],"лучами":["RES-1693,msobodytext","RES-1681,msobodytext","RES-1790,msonormal"]}

@@ -1,0 +1,1 @@
+﻿{"складывая":["RES-2070,example","RES-2086,pexample"],"складываются":["RES-205,theorem","RES-232,msobodytext","RES-1273,pexample"],"складывать":["RES-100,endst","RES-1327,endst","RES-1396,endst"],"складывается":["RES-1784,pexample"]}

@@ -1,0 +1,1 @@
+﻿{"тот":["RES-324,beginst","RES-477,pexample","RES-1156,provingtheorem"]}

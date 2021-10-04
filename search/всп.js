@@ -1,0 +1,1 @@
+﻿{"вспомогательной":["RES-745,msobodytext"],"вспомогательную":["RES-94,pexample","RES-1049,provingtheorem","RES-1044,provingtheorem"],"вспомогательным":["RES-1143,beginst"],"вспомогательный":["RES-153,msobodytext"],"вспомогательное":["RES-178,pexample"],"вспомните":["RES-1913,dexample"]}

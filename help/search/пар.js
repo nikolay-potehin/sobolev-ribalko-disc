@@ -1,0 +1,1 @@
+﻿{"пары":["RES-34,msonormal"],"параметры":["RES-35,msobodytext"],"параметров":["RES-17,msobodytext"]}

@@ -1,0 +1,1 @@
+﻿{"куб":["RES-1266,pexample"],"кубу":["RES-1274,pexample"]}

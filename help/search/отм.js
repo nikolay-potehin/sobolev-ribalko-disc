@@ -1,0 +1,1 @@
+﻿{"отметить":["RES-33,msonormal"],"отмечаются":["RES-33,msonormal"],"отмена":["RES-26,msobodytext"],"отмечалось":["RES-14,msobodytext"]}

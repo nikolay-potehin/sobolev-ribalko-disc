@@ -1,0 +1,1 @@
+﻿{"мере":["RES-615,msobodytext","RES-617,msobodytext","RES-680,definition","RES-794,example","RES-898,pexample","RES-1042,theorem","RES-1043,msonormal","RES-1044,theorem,provingtheorem","RES-1072,theorem,msobodytext","RES-1073,theorem","RES-1156,theorem","RES-1196,msobodytext","RES-1310,definition"]}

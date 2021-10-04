@@ -1,0 +1,1 @@
+﻿{"плюса":["RES-1159,theorem","RES-1160,msonormal","RES-1163,provingtheorem"],"плюс":["RES-1159,theorem","RES-1160,msonormal","RES-1618,msobodytext","RES-1620,example","RES-1633,msobodytext"]}

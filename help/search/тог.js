@@ -1,0 +1,1 @@
+﻿{"тогда":["RES-24,msonormal"],"того":["RES-24,msobodytext","RES-11,msobodytext,msonormal","RES-16,msobodytext","RES-17,msobodytext"]}

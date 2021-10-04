@@ -1,0 +1,1 @@
+﻿{"одинаковую":["RES-5,msobodytext"],"один":["RES-33,msonormal"],"одиночное":["RES-34,msonormal"]}

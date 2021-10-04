@@ -1,0 +1,1 @@
+﻿{"ставит":["RES-6,msobodytext"],"старше":["RES-35,msobodytext"],"ставятся":["RES-25,msobodytext"]}

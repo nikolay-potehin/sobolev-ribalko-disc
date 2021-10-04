@@ -1,0 +1,1 @@
+﻿{"обеих":["RES-385,pexample","RES-906,dexample","RES-1149,msobodytext","RES-1278,pexample"],"обе":["RES-497,pexample","RES-647,pexample","RES-1149,msobodytext","RES-1220,texample","RES-1221,texample","RES-1325,example","RES-1389,pexample"],"обеспечивается":["RES-616,msobodytext"],"обеими":["RES-771,msobodytext"]}

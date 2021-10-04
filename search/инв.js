@@ -1,0 +1,1 @@
+﻿{"инвариантности":["RES-969,properties"],"инвариантна":["RES-970,warning","RES-1068,msobodytext"],"инвариантность":["RES-1067,properties"]}

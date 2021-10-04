@@ -1,0 +1,1 @@
+﻿{"реализована":["RES-20,msobodytext"],"реализации":["RES-20,msobodytext"],"реализован":["RES-16,msobodytext"],"реализованы":["RES-17,msobodytext"]}

@@ -1,0 +1,1 @@
+﻿{"налево":["RES-747,msobodytext"],"наличие":["RES-777,example","RES-1143,beginst","RES-1165,msonormal","RES-1189,msonormal","RES-1311,msonormal"],"наличия":["RES-1667,endst"],"налагаемые":["RES-1884,warning"]}

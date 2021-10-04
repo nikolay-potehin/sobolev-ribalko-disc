@@ -1,0 +1,1 @@
+﻿{"выступает":["RES-34,msonormal"],"высокого":["RES-15,msobodytext"]}

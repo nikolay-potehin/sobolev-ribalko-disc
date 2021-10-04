@@ -1,0 +1,1 @@
+﻿{"ресурсов":["RES-4","RES-14,msobodytext","RES-16,msobodytext","ACT-3"],"ресурсы":["RES-4,msobodytextindent","RES-5,msobodytext","RES-6,msobodytext","RES-7","RES-8","RES-14,msobodytext"],"ресурса":["RES-4,msobodytext","RES-11,msonormal","RES-14,msobodytext","RES-16,msobodytext,msonormal"],"ресурсам":["RES-14,msobodytext","RES-16,msobodytext"],"ресурсу":["RES-14,msobodytext"]}

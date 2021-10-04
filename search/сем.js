@@ -1,0 +1,1 @@
+﻿{"семестров":["RES-1,msobodytext"],"семинарских":["RES-1,msobodytext"],"семейство":["RES-1925,msobodytext","RES-662,dexample","RES-1868,msobodytext","RES-1876,msobodytext"],"семейства":["RES-616,msobodytext","RES-611,msobodytext","RES-1876,definition","RES-1884,msobodytext"],"семейству":["RES-1876,definition"],"семействе":["RES-1913,dexample"]}

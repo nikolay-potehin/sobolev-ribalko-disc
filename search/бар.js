@@ -1,0 +1,1 @@
+﻿{"барроу":["RES-1620,example,warning"]}

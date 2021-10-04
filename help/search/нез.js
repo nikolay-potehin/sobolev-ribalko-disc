@@ -1,0 +1,1 @@
+﻿{"независимых":["RES-6,msobodytext","RES-11,msobodytext"]}

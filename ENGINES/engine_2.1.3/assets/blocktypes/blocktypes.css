@@ -1,0 +1,83 @@
+/*Руководитель проекта: Третьяков В.С.
+Разработка:Савельев А.А., Трояновский М.Б., Титов И.В.,  Катков А.Ю., Громов И.В.
+Дизайн: Щербаков А.В.
+ГОУ ВПО "УГТУ-УПИ имени первого Президента России Б.Н.Ельцина"
+Центр Информационного компьютерного обеспечения 2008-2009г*/
+/*------------ методические типы ------------------*/
+.Definition{
+	padding-top:45px;
+	background-image:url('./imgs/Definition.png');
+	background-repeat:no-repeat;
+}
+
+.BeginSt{
+	padding-top:45px;
+	background-image:url('./imgs/BeginSt.png');
+	background-repeat:no-repeat;
+}
+
+.EndSt{
+	padding-top:45px;
+	background-image:url('./imgs/EndSt.png');
+	background-repeat:no-repeat;
+}
+
+.Example{
+	padding-top:45px;
+	background-image:url('./imgs/Example.png');
+	background-repeat:no-repeat;
+}
+
+.Next{
+	padding-top:45px;	
+	background-repeat:no-repeat;
+	background-image:url('./imgs/Next.png');
+}
+
+.PExample{
+	padding-top:45px;
+	background-repeat:no-repeat;
+	background-image:url('./imgs/PExample.png');
+}
+
+.Properties{
+	padding-top:45px;
+	background-repeat:no-repeat;
+	background-image:url('./imgs/Properties.png');
+}
+
+.ProvingTheorem{
+    padding-top:45px;
+	background-repeat:no-repeat;
+    background-image:url('./imgs/Proving.png');
+}
+.ProvingNext{
+    padding-top:45px;
+	background-repeat:no-repeat;
+    background-image:url('./imgs/Proving.png');
+}
+.ProvingProperties{
+    padding-top:45px;
+	background-repeat:no-repeat;
+    background-image:url('./imgs/Proving.png');
+}
+.TExample{
+	padding-top:45px;
+	background-repeat:no-repeat;
+	background-image:url('./imgs/TExample.png');
+}
+.Theorem{
+	padding-top:45px;
+	background-repeat:no-repeat;
+	background-image:url('./imgs/Theorem.png');
+}
+.Warning{
+	padding-top:45px;
+	background-repeat:no-repeat;
+	background-image:url('./imgs/Warning.png');
+}
+.DExample{
+	padding-top:45px;
+	background-image:url('./imgs/DExample.png');
+	background-repeat:no-repeat;
+}

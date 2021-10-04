@@ -1,0 +1,1 @@
+﻿{"согласно":["RES-1156,provingtheorem","RES-1317,msobodytext"]}

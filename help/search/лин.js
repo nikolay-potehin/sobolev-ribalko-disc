@@ -1,0 +1,1 @@
+﻿{"линейной":["RES-4,msonormal"],"линии":["RES-30,msobodytext","RES-11,msobodytext"],"линией":["RES-25,msobodytext"],"линейки":["RES-25,msobodytext","RES-17,msobodytext"],"линейка":["RES-17,msobodytext,signature"]}

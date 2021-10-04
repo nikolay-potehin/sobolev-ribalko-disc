@@ -1,0 +1,1 @@
+﻿{"базовых":["RES-5,msobodytext"],"базовые":["RES-25,msobodytext"]}

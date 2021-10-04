@@ -1,0 +1,1 @@
+﻿{"имеют":["RES-5,msobodytext","RES-6,msobodytext"],"имеет":["RES-6,msobodytext","RES-24,msobodytext","RES-11,msobodytext,msonormal"],"имеется":["RES-34,msonormal"],"иметь":["RES-24,msobodytext"],"имевшему":["RES-25,msobodytext"],"имени":["RES-27,msobodytext","RES-17,msobodytext"],"имеющимся":["RES-13,msobodytext"],"имеющие":["RES-14,msobodytext"]}

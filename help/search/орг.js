@@ -1,0 +1,1 @@
+﻿{"организации":["RES-4,msobodytext","RES-8,msobodytext","RES-24,msobodytext"]}

@@ -1,0 +1,1 @@
+﻿{"хорды":["RES-424,msobodytext","RES-427,msobodytext","RES-488,definition","RES-589,msobodytext","RES-592,msobodytext","RES-1684,msobodytext"],"хорде":["RES-1043,msonormal","RES-1072,msobodytext"],"хордами":["RES-1684,msobodytext","RES-1689,msobodytext"],"хорд":["RES-1684,msobodytext"],"хорда":["RES-1689,msobodytext"]}

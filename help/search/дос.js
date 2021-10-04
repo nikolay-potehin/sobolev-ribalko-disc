@@ -1,0 +1,1 @@
+﻿{"достаточно":["RES-33,msonormal"],"доступ":["RES-24,msobodytext","RES-25,msobodytext","RES-16,msobodytext"],"доступны":["RES-27,msobodytext"]}

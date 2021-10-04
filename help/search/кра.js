@@ -1,0 +1,1 @@
+﻿{"краткую":["RES-5,msobodytext","RES-11,msobodytext"],"краткое":["RES-6,msobodytext"],"красные":["RES-30,msobodytext"],"краю":["RES-24,msobodytext","RES-25,msonormal"],"красным":["RES-17,msobodytext"]}

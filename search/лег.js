@@ -1,0 +1,1 @@
+﻿{"легко":["RES-2070,msobodytext","RES-12,msobodytext","RES-710,pexample","RES-898,pexample","RES-1166,example","RES-1279,pexample"],"легкими":["RES-611,msobodytext"],"легче":["RES-1784,pexample"]}

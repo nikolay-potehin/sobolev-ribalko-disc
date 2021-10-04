@@ -1,0 +1,1 @@
+﻿{"эту":["RES-247,pexample","RES-383,pexample","RES-721,pexample","RES-79,msobodytext","RES-1150,provingtheorem","RES-1166,example","RES-1241,texample","RES-1253,pexample","RES-1254,pexample","RES-1800,msobodytext"]}

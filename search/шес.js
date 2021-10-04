@@ -1,0 +1,1 @@
+﻿{"шестиугольник":["RES-307,dexample"],"шестой":["RES-1267,pexample"],"шестиугольника":["RES-1325,example","RES-1367,pexample"]}

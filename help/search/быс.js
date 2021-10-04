@@ -1,0 +1,1 @@
+﻿{"быстрого":["RES-7,msobodytext","RES-20,msobodytext","RES-21,signature","RES-26,msobodytext","RES-15,msobodytext","RES-17,msobodytext"],"быстрый":["RES-24,msobodytext","RES-25,msobodytext","RES-16,msobodytext"]}

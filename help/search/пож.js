@@ -1,0 +1,1 @@
+﻿{"пожеланиями":["RES-35,msobodytext","RES-11,msobodytext"]}

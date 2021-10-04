@@ -1,0 +1,1 @@
+﻿{"пунктирные":["RES-30,msobodytext"],"пункт":["RES-35,msobodytext","RES-16,msobodytext"],"пункта":["RES-35,msobodytext"],"пунктирной":["RES-25,msobodytext"]}

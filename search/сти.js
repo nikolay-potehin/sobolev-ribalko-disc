@@ -1,0 +1,1 @@
+﻿{"стирлинга":["RES-690,msobodytext","RES-704,texample","RES-740,msobodytext"]}

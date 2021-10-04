@@ -1,0 +1,1 @@
+﻿{"активации":["RES-13,msobodytext","RES-16,msobodytext","RES-17,msobodytext"]}

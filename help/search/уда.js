@@ -1,0 +1,1 @@
+﻿{"удаление":["RES-20,signature"],"удалить":["RES-25,msobodytext","RES-26,msobodytext"],"удалены":["RES-26,msobodytext"]}

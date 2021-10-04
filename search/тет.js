@@ -1,0 +1,1 @@
+﻿{"тетраэдр":["RES-236,pexample","RES-291,pexample"],"тетраэдра":["RES-289,pexample","RES-308,dexample"],"тетраэдре":["RES-290,pexample","RES-307,dexample","RES-308,dexample"]}

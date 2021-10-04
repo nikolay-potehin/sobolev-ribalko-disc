@@ -1,0 +1,1 @@
+﻿{"кусочно":["RES-1408,theorem","RES-1619,theorem"]}

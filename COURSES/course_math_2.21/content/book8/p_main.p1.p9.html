@@ -1,0 +1,157 @@
+<html>
+<head>
+<title>3.5. Схема отыскания общего решения системы m уравнений с n неизвестными</title>
+<link rel="stylesheet" href="../text.css" />
+</head><body><div id=p9 parent="p_main.p1"><div id=title>3.5. Схема отыскания общего решения системы m уравнений с n неизвестными</div>
+
+<div id=block class="MsoNormal">
+<ol start=1>
+
+ <li>Находим ранги матриц <img align=absmiddle src="img/image011.gif"> и
+     <img align=absmiddle
+     src="img/image095.gif">.</li>
+</ol>
+</div>
+
+<div id=block class="MsoBodyText">
+<div class="MsoBodyText">Если <img align=absmiddle src="img/image096.gif">, то система не
+имеет решений.</div>
+
+<div class="MsoBodyText">Если <img align=absmiddle src="img/image097.gif">, то у системы есть
+решения. У матриц <img align=absmiddle src="img/image011.gif"> и <img align=absmiddle src="img/image095.gif"> есть
+общий базисный минор. Выбираем его.</div>
+
+<ol start=2>
+
+ <li>Оставляем в системе только те уравнения, коэффициенты
+     которых входят в общий базисный минор. Остальные уравнения являются
+     линейными комбинациями этих уравнений и не несут дополнительной информации.</li>
+ <li>Сравниваем ранг и количество неизвестных.</li>
+</ol>
+
+<div class="MsoBodyText">Если <img align=absmiddle src="img/image092.gif">, то есть порядок
+базисного минора совпадает с количеством неизвестных, решаем систему <img align=absmiddle
+src="img/image002.gif"> уравнений с <img align=absmiddle src="img/image002.gif"> неизвестными
+(ее определитель <img align=absmiddle src="img/image093.gif">) и получаем единственное
+решение.</div>
+
+<div class="MsoBodyText">Если <img align=absmiddle src="img/image098.gif">, то в системе
+имеются <img align=absmiddle
+src="img/image099.gif"> свободных неизвестных. Тогда <img align=absmiddle
+src="img/image100.gif"> – базисные неизвестные, а <img align=absmiddle
+src="img/image101.gif"> – свободные неизвестные.</div>
+
+<div class="MsoBodyText">Переносим свободные неизвестные в правую часть уравнений
+системы:</div>
+
+<div class="formula"><span style="float:right">(3)</span><img align=absmiddle src="img/image102.gif"></div>
+
+<div>или, в матричной форме,</div>
+
+<div class="formula"><span style="float:right">(4)</span><img align=absmiddle src="img/image103.gif"> </div>
+
+<div>где</div>
+
+<div class="formula"><img align=absmiddle src="img/image104.gif">, <img align=absmiddle src="img/image105.gif">,</div>
+
+<div class="formula"><img align=absmiddle src="img/image106.gif">.</div>
+
+<div class="MsoBodyText">Система (3) является следствием исходной системы (1) и ее
+решение может быть найдено любым ранее рассмотренным способом.</div>
+
+<div class="MsoBodyText">Пусть свободные неизвестные принимают значения</div>
+
+<div class="formula"><img align=absmiddle src="img/image107.gif">.</div>
+
+<div class="MsoBodyText">Тогда система (4) принимает вид:</div>
+
+<div class="formula"><span style="float:right">(5)</span><img align=absmiddle src="img/image108.gif"></div>
+
+<div class="MsoBodyText">и базисные неизвестные <img align=absmiddle src="img/image100.gif"> выражаются
+определенным образом через эти значения:</div>
+
+<div class="formula"><img align=absmiddle src="img/image109.gif">, <img align=absmiddle src="img/image110.gif">.</div>
+
+<div class="MsoBodyText">Решение неоднородной системы <img align=absmiddle src="img/image007.gif"> можно
+записать в виде матрицы-столбца:</div>
+
+<div class="formula"><span style="float:right">(6)</span><img align=absmiddle src="img/image111.gif"></div>
+
+<div class="MsoBodyText">Поскольку свободные неизвестные могут принимать
+произвольные числовые значения, то исходная система имеет бесконечно много решений.</div>
+
+<div class="MsoBodyText">Выражение (6) называется <b>общим решением</b> системы
+(1). Если константам <img align=absmiddle src="img/image112.gif"> придать конкретные
+значения, то <b>получим частное решение</b> системы (1).</div>
+</div>
+
+<div id=block class="Example">
+<div style="text-indent:1cm">Решить систему:<img align=absmiddle src="img/image113.gif"></div>
+
+<div style="text-indent:1cm">Рассмотрим расширенную матрицу:</div>
+
+<div><img align=absmiddle src="img/image114.gif">.</div>
+
+<div style="text-indent:1cm">Следовательно, <img align=absmiddle src="img/image115.gif"> и <img align=absmiddle
+src="img/image116.gif">. Поскольку <img align=absmiddle src="img/image117.gif">,
+система несовместна. Очевидно, что третье уравнение преобразованной системы: <img align=absmiddle
+src="img/image118.gif"> не имеет решений.</div>
+</div>
+
+
+
+<div id=block class="Example">
+<div style="text-indent:1cm">Решить систему <img align=absmiddle src="img/image119.gif"></div>
+
+<div style="text-indent:1cm">Рассмотрим расширенную матрицу:</div>
+
+<div><img align=absmiddle src="img/image120.gif"></div>
+
+<div style="text-indent:1cm">Следовательно, <img align=absmiddle src="img/image121.gif">, поэтому система
+совместна и имеет единственное решение.</div>
+
+<div style="text-indent:1cm">Преобразованная система имеет вид:</div>
+
+<div><img align=absmiddle src="img/image122.gif"></div>
+
+<div>ее решение:</div>
+
+<div><img align=absmiddle src="img/image123.gif">.</div>
+</div>
+
+
+
+<div id=block class="Example">
+<div style="text-indent:1cm">Решить систему <img align=absmiddle src="img/image124.gif"></div>
+
+<div style="text-indent:1cm">Рассмотрим расширенную матрицу:</div>
+
+<div><img align=absmiddle src="img/image125.gif">.</div>
+
+<div style="text-indent:1cm">Следовательно, <img align=absmiddle src="img/image126.gif">, поэтому система
+совместна и не определена. </div>
+
+<div style="text-indent:1cm">Выберем <img align=absmiddle src="img/image127.gif"> и <img align=absmiddle
+src="img/image128.gif"> в качестве базисных неизвестных и
+запишем преобразованную систему:</div>
+
+<div><img align=absmiddle src="img/image129.gif"></div>
+
+<div style="text-indent:1cm">Полагая <img align=absmiddle src="img/image130.gif">, <img align=absmiddle
+src="img/image131.gif">, где <img align=absmiddle src="img/image132.gif"> и
+<img align=absmiddle
+src="img/image133.gif"> -
+произвольные числа, получаем общее решение системы</div>
+
+<div><img align=absmiddle src="img/image134.gif">.</div>
+
+<div style="text-indent:1cm">Решение соответствующей однородной системы</div>
+
+<div><img align=absmiddle src="img/image135.gif"></div>
+
+<div>можно записать в виде:</div>
+
+<div><img align=absmiddle src="img/image136.gif">.</div>
+</div>
+
+</div></body></html>

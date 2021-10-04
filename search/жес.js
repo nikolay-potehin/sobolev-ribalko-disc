@@ -1,0 +1,1 @@
+﻿{"жесткостью":["RES-616,msobodytext"],"жесткость":["RES-616,msobodytext"]}

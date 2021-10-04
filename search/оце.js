@@ -1,0 +1,1 @@
+﻿{"оценим":["RES-704,texample"],"оценить":["RES-1035,beginst","RES-1134,endst","RES-1620,example"],"оценка":["RES-1052"],"оценке":["RES-1053,msobodytext","RES-1620,msobodytext,theorem,provingtheorem"],"оценивая":["RES-1132,pexample"],"оценки":["RES-1620,theorem","RES-1634,properties"],"оцените":["RES-1639,pexample","RES-1645,pexample","RES-1669,dexample"]}

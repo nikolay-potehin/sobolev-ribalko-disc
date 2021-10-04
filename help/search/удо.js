@@ -1,0 +1,1 @@
+﻿{"удобен":["RES-7,msobodytext"],"удобно":["RES-20,msobodytext"]}

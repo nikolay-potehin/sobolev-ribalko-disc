@@ -1,0 +1,1 @@
+﻿{"чем":["RES-424,msobodytext","RES-426,msobodytext","RES-573,dexample","RES-589,msobodytext","RES-679,example","RES-684,provingtheorem","RES-770,msobodytext","RES-964,msobodytext,warning","RES-1043,warning","RES-1063,warning","RES-1194,msobodytext","RES-1205,texample","RES-1275,pexample","RES-1521,warning","RES-1565,example"],"чему":["RES-1778,pexample"]}

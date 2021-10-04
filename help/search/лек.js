@@ -1,0 +1,1 @@
+﻿{"лекции":["RES-4,msonormal","RES-5,msobodytext,msonormal","RES-14,msobodytext,picture"],"лекция":["RES-5,msobodytext","RES-16,msonormal"],"лекций":["RES-5,msobodytext"],"лекционных":["RES-5,msobodytext"],"лекционным":["RES-6,msobodytext"],"лекциям":["RES-6,msobodytext"],"лекционного":["RES-6,msobodytext"]}

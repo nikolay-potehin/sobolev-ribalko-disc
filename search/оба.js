@@ -1,0 +1,1 @@
+﻿{"оба":["RES-670,msobodytext","RES-1150,provingtheorem","RES-1278,pexample","RES-1780,pexample"]}

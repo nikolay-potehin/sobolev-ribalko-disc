@@ -1,0 +1,1 @@
+﻿{"вещественное":["RES-204,definition","RES-230,definition","RES-1051,tableleft"],"вещественных":["RES-204,warning","RES-857,msobodytext","RES-1529,warning"],"вещественной":["RES-790,example,warning","RES-791,next","RES-879,texample","RES-880,texample"],"вещественные":["RES-1325,example"],"вещественными":["RES-1516,msonormal"]}

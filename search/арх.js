@@ -1,0 +1,1 @@
+﻿{"архимедова":["RES-537,definition","RES-1680,example"],"архимедовой":["RES-537,definition","RES-1680,example"],"архимедом":["RES-1407,beginst","RES-1512,beginst"],"архимеда":["RES-1787,dexample"]}

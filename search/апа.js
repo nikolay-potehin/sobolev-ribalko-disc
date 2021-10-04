@@ -1,0 +1,1 @@
+﻿{"апаратом":["RES-40,beginst","RES-1170,beginst"]}

@@ -1,0 +1,1 @@
+﻿{"наоборот":["RES-10,msobodytext","RES-12,properties","RES-440,msobodytext","RES-1348,msobodytext","RES-1676,msobodytext"]}

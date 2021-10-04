@@ -1,0 +1,1 @@
+﻿{"узнать":["RES-334,warning","RES-800,beginst","RES-1040,next","RES-1340,beginst"],"узнавать":["RES-571,endst"]}

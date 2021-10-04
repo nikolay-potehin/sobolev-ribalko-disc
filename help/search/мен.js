@@ -1,0 +1,1 @@
+﻿{"менять":["RES-34,msonormal"],"меню":["RES-35,msobodytext"]}

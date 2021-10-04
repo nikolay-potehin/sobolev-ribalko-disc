@@ -1,0 +1,1 @@
+﻿{"тангенса":["RES-747,example","RES-762,msonormal"],"тангенс":["RES-761,msonormal","RES-866,msobodytext","RES-947,msobodytext","RES-978,msobodytext","RES-1030,msonormal","RES-1182,msobodytext"],"тангенциальная":["RES-1198,msobodytext"]}

@@ -1,0 +1,225 @@
+<?xml version="1.0" standalone="no" ?>
+<!-- alexkat -->
+<manifest identifier="MANIFEST_IDENTIFIER" version="1.0"
+    xmlns="http://www.imsglobal.org/xsd/imscp_v1p1"
+    xmlns:adlcp="http://www.adlnet.org/xsd/adlcp_v1p3"
+    xmlns:adlnav="http://www.adlnet.org/xsd/adlnav_v1p3"
+    xmlns:adlseq="http://www.adlnet.org/xsd/adlseq_v1p3"
+    xmlns:imsss="http://www.imsglobal.org/xsd/imsss" 
+    xmlns:lom="http://ltsc.ieee.org/xsd/LOM" 
+    xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance"
+    xsi:schemaLocation="http://www.imsglobal.org/xsd/imscp_v1p1 imscp_v1p1.xsd
+                        http://www.adlnet.org/xsd/adlcp_v1p3 adlcp_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlnav_v1p3 adlnav_v1p3.xsd
+                        http://www.adlnet.org/xsd/adlseq_v1p3 adlseq_v1p3.xsd
+                        http://www.imsglobal.org/xsd/imsss imsss_v1p0.xsd
+                        http://ltsc.ieee.org/xsd/LOM lom.xsd">
+
+  <metadata>
+  <schema>ADL SCORM</schema>
+  <schemaversion>2004 3rd Edition</schemaversion>
+  <lom:lom>
+    <lom:general>
+      <lom:title>
+        <lom:string language="en">Рекомендации по работе с УМК "Математика"</lom:string>
+      </lom:title>
+      <lom:language>en</lom:language>
+      <lom:description>
+        <lom:string language="en">Рекомендации по работе с УМК "Математика"</lom:string>
+      </lom:description>
+      <lom:keyword>
+        <lom:string language="en">Математика</lom:string>
+      </lom:keyword>
+      <lom:coverage>
+        <lom:string language="en"></lom:string>
+      </lom:coverage>
+      <lom:structure>
+        <lom:source>LOMv1.0</lom:source>
+        <lom:value>hierarchical</lom:value>
+      </lom:structure>
+    </lom:general>
+    <lom:lifeCycle>
+      <lom:version>
+        <lom:string language="en">0.3</lom:string>
+      </lom:version>  
+    </lom:lifeCycle>
+    <lom:metaMetadata></lom:metaMetadata>
+    <lom:rights>
+      <lom:cost>
+        <lom:source>LOMv1.0</lom:source>
+        <lom:value>no</lom:value>
+      </lom:cost>
+      <lom:copyrightAndOtherRestrictions>
+        <lom:source>LOMv1.0</lom:source>
+        <lom:value>no</lom:value>
+      </lom:copyrightAndOtherRestrictions>
+      <lom:description>
+        <lom:string language="en">А.Б. Соболев, А.Ф. Рыбалко, Н.М. Рыбалко, М.А. Вигура</lom:string>
+      </lom:description>
+    </lom:rights>
+  </lom:lom>
+</metadata>
+<organizations default="ORG-1">
+<organization identifier="ORG-1" structure="hierarchical">
+<title>Рекомендации по работе с УМК "Математика"</title>
+<item identifier="ACT-1"  parameters="t:'Лекция', cts:['Лекция']" >
+<title>Инструкция пользователя УМК «Математика»</title>
+<item identifier="ACT-2" identifierref="RES-2" parameters="t:'Лекция'" >
+<title>preface</title></item>
+<item identifier="ACT-3"  parameters="t:'Лекция', cts:['Лекция']" >
+<title>1. Перечень ресурсов представленных в УМК «Математика»</title>
+<item identifier="ACT-4" identifierref="RES-4" parameters="t:'Лекция'" >
+<title>preface</title></item>
+<item identifier="ACT-5" identifierref="RES-5" parameters="t:'Лекция'" >
+<title>1.1. Ресурсы «Лекция»</title></item>
+<item identifier="ACT-6" identifierref="RES-6" parameters="t:'Лекция'" >
+<title>1.2. Ресурсы «Практика»</title></item>
+<item identifier="ACT-7" identifierref="RES-7" parameters="t:'Лекция'" >
+<title>1.3. Ресурсы «Справочник»</title></item>
+<item identifier="ACT-8" identifierref="RES-8" parameters="t:'Лекция'" >
+<title>1.4. Ресурсы «Самостоятельная работа»</title></item></item>
+<item identifier="ACT-9"  parameters="t:'Лекция', cts:['Лекция']" >
+<title>2. Основы работы с УМК «Математика»</title>
+<item identifier="ACT-10" identifierref="RES-10" parameters="t:'Лекция'" >
+<title>preface</title></item>
+<item identifier="ACT-11" identifierref="RES-11" parameters="t:'Лекция'" >
+<title>2.1. Блочная структура интерфейса УМК «Математика»</title></item>
+<item identifier="ACT-12"  parameters="t:'Лекция', cts:['Лекция']" >
+<title>2.2. Блок навигации по курсу</title>
+<item identifier="ACT-13" identifierref="RES-13" parameters="t:'Лекция'" >
+<title>preface</title></item>
+<item identifier="ACT-14" identifierref="RES-14" parameters="t:'Лекция'" >
+<title>2.2.1. Работа с деревом курса</title></item>
+<item identifier="ACT-15" identifierref="RES-15" parameters="t:'Лекция'" >
+<title>2.2.2. Переход по документам.</title></item>
+<item identifier="ACT-16" identifierref="RES-16" parameters="t:'Лекция'" >
+<title>2.2.3. Фильтрация материалов УМК по типу ресурса</title></item>
+<item identifier="ACT-17" identifierref="RES-17" parameters="t:'Лекция'" >
+<title>2.2.4. Поиск по УМК</title></item></item>
+<item identifier="ACT-18"  parameters="t:'Лекция', cts:['Лекция']" >
+<title>2.3. Основная область просмотра </title>
+<item identifier="ACT-19" identifierref="RES-19" parameters="t:'Лекция'" >
+<title>preface</title></item>
+<item identifier="ACT-20" identifierref="RES-20" parameters="t:'Лекция'" >
+<title>2.3.1. Панель управления вкладками.</title></item>
+<item identifier="ACT-21" identifierref="RES-21" parameters="t:'Лекция'" >
+<title>2.3.2. Панель выбора методических типов</title></item>
+<item identifier="ACT-22" identifierref="RES-22" parameters="t:'Лекция'" >
+<title>2.3.3. Панель вывода методического наполнения УМК, и работы с заданиями с автоматической проверкой результатов</title></item></item>
+<item identifier="ACT-23"  parameters="t:'Лекция', cts:['Лекция']" >
+<title>2.4. Дополнительный блок</title>
+<item identifier="ACT-24" identifierref="RES-24" parameters="t:'Лекция'" >
+<title>preface</title></item>
+<item identifier="ACT-25" identifierref="RES-25" parameters="t:'Лекция'" >
+<title>2.4.1. Работа с заметками</title></item>
+<item identifier="ACT-26" identifierref="RES-26" parameters="t:'Лекция'" >
+<title>2.4.2. Работа с закладками</title></item>
+<item identifier="ACT-27" identifierref="RES-27" parameters="t:'Лекция'" >
+<title>2.4.3. Работа со ссылками</title></item></item></item>
+<item identifier="ACT-28"  parameters="t:'Лекция', cts:['Лекция']" >
+<title>3. Работа с заданиями с автоматической проверкой ответов</title>
+<item identifier="ACT-29" identifierref="RES-29" parameters="t:'Лекция'" >
+<title>preface</title></item>
+<item identifier="ACT-30" identifierref="RES-30" parameters="t:'Лекция'" >
+<title>3.1. Основы работы с заданиями с автоматической проверкой ответов в составе УМК</title></item>
+<item identifier="ACT-31"  parameters="t:'Лекция', cts:['Лекция']" >
+<title>3.2. Особенности ответов на вопросы заданий для самопроверки</title>
+<item identifier="ACT-32" identifierref="RES-32" parameters="t:'Лекция'" >
+<title>preface</title></item>
+<item identifier="ACT-33" identifierref="RES-33" parameters="t:'Лекция'" >
+<title>3.2.1. Закрытые вопросы</title></item>
+<item identifier="ACT-34" identifierref="RES-34" parameters="t:'Лекция'" >
+<title>3.2.2. Открытые вопросы</title></item></item></item>
+<item identifier="ACT-35" identifierref="RES-35" parameters="t:'Лекция'" >
+<title>4. Технические требования</title></item></item>
+</organization>
+</organizations>
+<resources>
+<resource identifier="RES-2" href="content/book1/p_main.p1.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.html"></file>
+</resource>
+<resource identifier="RES-4" href="content/book1/p_main.p1.p2.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p2.html"></file>
+</resource>
+<resource identifier="RES-5" href="content/book1/p_main.p1.p2.p3.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p2.p3.html"></file>
+</resource>
+<resource identifier="RES-6" href="content/book1/p_main.p1.p2.p4.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p2.p4.html"></file>
+</resource>
+<resource identifier="RES-7" href="content/book1/p_main.p1.p2.p5.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p2.p5.html"></file>
+</resource>
+<resource identifier="RES-8" href="content/book1/p_main.p1.p2.p6.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p2.p6.html"></file>
+</resource>
+<resource identifier="RES-10" href="content/book1/p_main.p1.p7.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p7.html"></file>
+</resource>
+<resource identifier="RES-11" href="content/book1/p_main.p1.p7.p8.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p7.p8.html"></file>
+</resource>
+<resource identifier="RES-13" href="content/book1/p_main.p1.p7.p9.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p7.p9.html"></file>
+</resource>
+<resource identifier="RES-14" href="content/book1/p_main.p1.p7.p9.p10.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p7.p9.p10.html"></file>
+</resource>
+<resource identifier="RES-15" href="content/book1/p_main.p1.p7.p9.p11.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p7.p9.p11.html"></file>
+</resource>
+<resource identifier="RES-16" href="content/book1/p_main.p1.p7.p9.p12.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p7.p9.p12.html"></file>
+</resource>
+<resource identifier="RES-17" href="content/book1/p_main.p1.p7.p9.p13.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p7.p9.p13.html"></file>
+</resource>
+<resource identifier="RES-19" href="content/book1/p_main.p1.p7.p14.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p7.p14.html"></file>
+</resource>
+<resource identifier="RES-20" href="content/book1/p_main.p1.p7.p14.p15.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p7.p14.p15.html"></file>
+</resource>
+<resource identifier="RES-21" href="content/book1/p_main.p1.p7.p14.p16.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p7.p14.p16.html"></file>
+</resource>
+<resource identifier="RES-22" href="content/book1/p_main.p1.p7.p14.p17.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p7.p14.p17.html"></file>
+</resource>
+<resource identifier="RES-24" href="content/book1/p_main.p1.p7.p18.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p7.p18.html"></file>
+</resource>
+<resource identifier="RES-25" href="content/book1/p_main.p1.p7.p18.p19.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p7.p18.p19.html"></file>
+</resource>
+<resource identifier="RES-26" href="content/book1/p_main.p1.p7.p18.p20.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p7.p18.p20.html"></file>
+</resource>
+<resource identifier="RES-27" href="content/book1/p_main.p1.p7.p18.p21.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p7.p18.p21.html"></file>
+</resource>
+<resource identifier="RES-29" href="content/book1/p_main.p1.p22.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p22.html"></file>
+</resource>
+<resource identifier="RES-30" href="content/book1/p_main.p1.p22.p23.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p22.p23.html"></file>
+</resource>
+<resource identifier="RES-32" href="content/book1/p_main.p1.p22.p24.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p22.p24.html"></file>
+</resource>
+<resource identifier="RES-33" href="content/book1/p_main.p1.p22.p24.p25.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p22.p24.p25.html"></file>
+</resource>
+<resource identifier="RES-34" href="content/book1/p_main.p1.p22.p24.p26.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p22.p24.p26.html"></file>
+</resource>
+<resource identifier="RES-35" href="content/book1/p_main.p1.p27.html" type="webcontent" adlcp:scormType="asset">
+<file href="content/book1/p_main.p1.p27.html"></file>
+</resource>
+</resources>
+
+  
+
+
+
+</manifest>

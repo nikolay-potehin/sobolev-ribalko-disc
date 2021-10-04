@@ -1,0 +1,1 @@
+﻿{"читается":["RES-670,msobodytext","RES-958,properties"],"читать":["RES-777,warning"]}

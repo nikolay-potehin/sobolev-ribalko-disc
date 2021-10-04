@@ -1,0 +1,1 @@
+﻿{"навыки":["RES-1340,beginst","RES-1420,beginst","RES-1534,beginst","RES-1562,beginst"]}

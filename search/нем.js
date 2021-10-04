@@ -1,0 +1,1 @@
+﻿{"немонотонная":["RES-683,example"],"нем":["RES-794,theorem","RES-878,texample","RES-870,properties","RES-932,theorem","RES-154,msobodytext,example,warning"],"нему":["RES-1288,pexample"]}

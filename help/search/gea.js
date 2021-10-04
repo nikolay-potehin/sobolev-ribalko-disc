@@ -1,0 +1,1 @@
+﻿{"gears":["RES-35,msobodytext"]}

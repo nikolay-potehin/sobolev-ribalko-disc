@@ -1,0 +1,1 @@
+﻿{"окаймляющих":["RES-33,msobodytext","RES-34","RES-81,msobodytext","RES-140,warning","RES-141","ACT-32"],"окаймляем":["RES-34,msobodytext","RES-81,msobodytext","RES-141,msobodytext"],"оказались":["RES-611,msobodytext"],"окажутся":["RES-679,warning","RES-698,texample"],"оказаться":["RES-685,warning","RES-1040,warning","RES-1148,example"]}

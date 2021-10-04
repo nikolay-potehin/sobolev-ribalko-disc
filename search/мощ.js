@@ -1,0 +1,1 @@
+﻿{"мощных":["RES-1316,beginst","RES-1329,beginst"]}

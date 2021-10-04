@@ -1,0 +1,1 @@
+﻿{"всякий":["RES-12,properties","RES-1332,next","RES-1351,next"],"всякое":["RES-605,warning","RES-1866,definition"],"всякая":["RES-683,warning","RES-685,warning","RES-773,warning","RES-813,texample","RES-1620,theorem","RES-1866,definition"],"всякой":["RES-685,theorem"],"всякую":["RES-1198,definition","RES-1335,theorem"],"вся":["RES-1275,pexample"]}

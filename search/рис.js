@@ -1,0 +1,1 @@
+﻿{"рисунка":["RES-239,pexample","RES-351,msobodytext","RES-442,msobodytext"],"рисунке":["RES-967,msobodytext","RES-1156,warning","RES-1158,provingtheorem"],"рисунок":["RES-1374,pexample","RES-1375,pexample","RES-1376,pexample","RES-1377,pexample","RES-1378,pexample"],"рис":["RES-1800,example"]}

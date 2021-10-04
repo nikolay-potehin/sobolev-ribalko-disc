@@ -1,0 +1,1 @@
+﻿{"домножая":["RES-721,pexample"],"домножим":["RES-832,pexample","RES-833,pexample","RES-834,pexample"],"домов":["RES-1273,pexample"],"дома":["RES-1273,pexample"],"домножением":["RES-1565,example"]}

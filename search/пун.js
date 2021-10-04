@@ -1,0 +1,1 @@
+﻿{"пункта":["RES-573,dexample","RES-1272,pexample"],"пункте":["RES-1272,pexample"],"пункт":["RES-154,warning"]}

@@ -1,0 +1,1 @@
+﻿{"вблизи":["RES-685,warning","RES-771,example","RES-1241,texample","RES-1269,pexample","RES-1271,pexample","RES-1310,definition","RES-1804,definition,msobodytext,example","RES-1820,definition","RES-1846,pexample"]}

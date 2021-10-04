@@ -1,0 +1,1 @@
+﻿{"зафиксируем":["RES-206,definition","RES-233,msobodytext","RES-1049,provingtheorem"]}

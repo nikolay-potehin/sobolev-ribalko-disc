@@ -1,0 +1,1 @@
+﻿{"алгебры":["RES-4,msonormal"],"алгебру":["RES-4,msonormal"]}

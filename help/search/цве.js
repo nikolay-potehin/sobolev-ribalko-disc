@@ -1,0 +1,1 @@
+﻿{"цвета":["RES-25,msonormal"],"цветом":["RES-25,msonormal","RES-17,msobodytext"]}

@@ -1,0 +1,1 @@
+﻿{"infimum":["RES-673,definition"]}

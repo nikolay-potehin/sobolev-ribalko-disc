@@ -1,0 +1,1 @@
+﻿{"ориентация":["RES-213,warning","RES-274,warning","RES-308,dexample"],"ориентацию":["RES-220,next","RES-304,endst"],"ориентации":["RES-220,msobodytext"]}

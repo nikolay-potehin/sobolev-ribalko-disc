@@ -1,0 +1,76 @@
+<!DOCTYPE html PUBLIC "-//W3C//DTD XHTML 1.0 Strict//EN" "http://www.w3.org/TR/xhtml1/DTD/xhtml1-strict.dtd">
+<!-- 
+Руководитель проекта: Третьяков В.С.
+Разработка:Савельев А.А., Трояновский М.Б., Титов И.В.,  Катков А.Ю., Громов И.В.
+Дизайн: Щербаков А.В.
+ГОУ ВПО "УГТУ-УПИ имени первого Президента России Б.Н.Ельцина"
+Центр Информационного компьютерного обеспечения 2008-2009г-->
+<html xmlns="http://www.w3.org/1999/xhtml" xml:lang="en" lang="en" id="SCORMPlayer">
+<head>
+	<title>Рекомендации по работе с УМК "Математика"</title>
+	<meta http-equiv="content-type" content="text/html; charset=windows-1251" />
+	<link rel="stylesheet" type="text/css" href="./ext/resources/css/ext-all.css" />
+	<script type="text/javascript" src="./ext/ext-base.js"></script>
+	<script type="text/javascript" src="./ext/ext-all.js"></script>
+	<script>
+		
+		var params = (function(){
+			var result = {};
+			var params = window.location.search.replace("?","").split("&");
+			for (var i=0;i<params.length;i++){
+				if(params[i].indexOf("=")!=-1){
+					var p = params[i].split("=");
+					result[p[0]] = p[1];
+				}
+			}
+			return result;
+		})();
+
+		var course = ["course","courses/course_math_" +(params.c||"help_7")];
+		var engine = ["engine","engines/engine_" +(params.e||"2.0.3r1")];
+
+		var COURSE_PATH = course[1];
+		
+		var assets = [
+			"./course/imsmanifest.js",
+			"./engine/mootools.js",
+			"./course/data.js",
+			"./engine/assets/treetypes/types.js",
+			"./engine/assets/blocktypes/blocktypes.js",
+			"./engine/localXHR.js",
+			"./engine/gears_init.js",
+			"./engine/store.gears.js",
+			"./engine/components.js",
+			"./engine/search.js",
+			"./engine/assets/treetypes/types.css",
+			"./engine/assets/blocktypes/blocktypes.css",
+			"./engine/interface.css"
+		];
+		
+		for (var i=0;i<assets.length;i++){
+			var js = assets[i].indexOf(".js")!=-1;
+			var path = assets[i].replace(course[0],course[1]).replace(engine[0],engine[1]);
+			var inline = js?
+				'<script type="text/javascript" src="'+path+'" ><\/script>'
+				:'<link rel="stylesheet" type="text/css" href="'+path+'" \/>';
+			document.write(inline);
+		}
+
+	</script>
+
+	<!-- <script type="text/javascript" src="./course/imsmanifest.js"></script>
+	<script type="text/javascript" src="./engine/mootools.js"></script>
+	<script type="text/javascript" src="./course/data.js"></script> 
+	<script type="text/javascript" src="./engine/assets/treetypes/types.js"></script> 
+	<link rel="stylesheet" type="text/css" href="./engine/assets/treetypes/types.css" />
+	<script type="text/javascript" src="./engine/assets/blocktypes/blocktypes.js"></script>
+	<link rel="stylesheet" type="text/css" href="./engine/assets/blocktypes/blocktypes.css" />
+	<link rel="stylesheet" type="text/css" href="./engine/interface.css" />
+	<script type="text/javascript" src="./engine/localXHR.js"></script>
+	<script type="text/javascript" src="./engine/components.js"></script>
+	<script type="text/javascript" src="./engine/search.js"></script>  -->
+	
+</head>
+<body>
+</body>
+</html>

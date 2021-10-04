@@ -1,0 +1,1 @@
+﻿{"освоить":["RES-689,beginst","RES-40,beginst","RES-74,beginst"],"освобождается":["RES-1780,pexample"]}

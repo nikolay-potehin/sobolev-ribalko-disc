@@ -1,0 +1,1 @@
+﻿{"весьма":["RES-766,beginst"],"весь":["RES-1272,pexample"],"весом":["RES-1718,msobodytext","RES-1783,pexample"],"вес":["RES-1783,pexample","RES-1784,pexample"]}

@@ -1,0 +1,1 @@
+﻿{"двойного":["RES-301,pexample","RES-781,provingtheorem","RES-1519,msobodytext"],"двойное":["RES-274,msobodytext","RES-319,definition","RES-29,properties","RES-780,provingtheorem","RES-1324,properties","RES-1349,properties"],"двойному":["RES-781,provingtheorem","RES-1519,msobodytext"]}

@@ -1,0 +1,1 @@
+﻿{"выделиться":["RES-25,msobodytext"],"выделения":["RES-25,msonormal"],"выделяют":["RES-14,msobodytext"],"выдающего":["RES-16,msobodytext"],"выделяемых":["RES-17,msonormal"],"выделяются":["RES-17,msobodytext"]}

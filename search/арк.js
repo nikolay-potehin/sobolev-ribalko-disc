@@ -1,0 +1,1 @@
+﻿{"арку":["RES-442,msobodytext"],"аркой":["RES-442,msobodytext","RES-542,msobodytext","RES-1677,example","RES-1730,pexample","RES-1787,dexample"],"арки":["RES-542,msobodytext","RES-1689,example","RES-1758,pexample","RES-1787,dexample"],"арксинус":["RES-756,msonormal"],"арктагнес":["RES-756,msonormal"],"арктангенс":["RES-1255,pexample"],"арка":["RES-1393,pexample"]}

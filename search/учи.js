@@ -1,0 +1,1 @@
+﻿{"учитывая":["RES-1991,provingtheorem","RES-417,msobodytext","RES-472,pexample","RES-464,msobodytext","RES-520,pexample","RES-708,pexample","RES-777,provingproperties","RES-896,pexample","RES-901,pexample","RES-1050,example","RES-1128,pexample","RES-1146,example","RES-1156,provingtheorem","RES-1898,pexample","RES-1899,pexample","RES-1903,pexample"]}

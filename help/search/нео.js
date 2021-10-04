@@ -1,0 +1,1 @@
+﻿{"неопределенный":["RES-4,msonormal"],"необходимости":["RES-6,msobodytext","RES-30,msobodytext"],"необязательный":["RES-6,msobodytext"],"необходимо":["RES-30,msobodytext","RES-34,msonormal","RES-20,msobodytext","RES-24,msobodytext","RES-11,msobodytext"],"необходим":["RES-21,msobodytext"],"необходимый":["RES-16,msonormal"]}

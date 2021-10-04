@@ -1,0 +1,1 @@
+﻿{"ординатой":["RES-206,definition","RES-233,definition"],"ординат":["RES-746,msobodytext,warning","RES-858,next","RES-1318,definition,example"],"ординаты":["RES-967,properties","RES-1065,msobodytext"],"ордината":["RES-1717,msobodytext"]}

@@ -1,0 +1,1 @@
+﻿{"облегчая":["RES-6,msobodytext"],"область":["RES-34,msobodytext","RES-19","RES-24,msobodytext","RES-11,msonormal","ACT-18"],"области":["RES-19,msobodytext","RES-20,msobodytext","RES-24,msonormal","RES-25,msobodytext","RES-26,msobodytext","RES-11,msonormal","RES-13,msobodytext","RES-14,msobodytext","RES-17,msobodytext"]}

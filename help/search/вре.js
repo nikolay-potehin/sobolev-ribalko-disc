@@ -1,0 +1,1 @@
+﻿{"временной":["RES-4,msobodytext"],"время":["RES-6,msobodytext"],"времени":["RES-24,msobodytext"],"временный":["RES-24,msonormal"],"временное":["RES-24,msobodytext"],"временного":["RES-24,signature"]}

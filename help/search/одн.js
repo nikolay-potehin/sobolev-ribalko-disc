@@ -1,0 +1,1 @@
+﻿{"одной":["RES-4,msobodytext"],"одно":["RES-34,msonormal"],"одну":["RES-34,msonormal"],"одном":["RES-35,msobodytext"],"одновременное":["RES-21,msobodytext"],"одновременной":["RES-11,msonormal"],"одному":["RES-14,msobodytext"],"однако":["RES-17,msobodytext"]}

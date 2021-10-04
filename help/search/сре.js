@@ -1,0 +1,1 @@
+﻿{"средства":["RES-25,msobodytext","RES-11,msonormal","RES-17,msobodytext"]}

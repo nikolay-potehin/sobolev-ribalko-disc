@@ -1,0 +1,1 @@
+﻿{"левому":["RES-25,msonormal"],"левом":["RES-16,msobodytext"]}

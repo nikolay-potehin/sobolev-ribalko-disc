@@ -1,0 +1,1 @@
+﻿{"chrome":["RES-35,msobodytext"]}

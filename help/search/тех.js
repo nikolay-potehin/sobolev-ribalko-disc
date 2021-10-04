@@ -1,0 +1,1 @@
+﻿{"тех":["RES-30,msobodytext","RES-33,msonormal"],"технические":["RES-35"]}

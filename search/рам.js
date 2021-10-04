@@ -1,0 +1,1 @@
+﻿{"рамках":["RES-1,msobodytext","RES-763,msobodytext"]}

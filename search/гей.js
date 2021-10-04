@@ -1,0 +1,1 @@
+﻿{"гейне":["RES-766,beginst","RES-769,msobodytext","RES-771,theorem,msobodytext","RES-793,provingtheorem","RES-811,texample","RES-816,texample","RES-803,definition","RES-918,definition"]}

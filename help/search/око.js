@@ -1,0 +1,1 @@
+﻿{"окончания":["RES-5,msobodytext","RES-25,msobodytext"]}

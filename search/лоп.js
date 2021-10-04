@@ -1,0 +1,1 @@
+﻿{"лопиталя":["RES-1035,beginst","RES-1054,endst","RES-1046,msobodytext,theorem,warning","RES-1047","RES-1088","RES-1089,beginst","RES-1111,endst","RES-1092,msobodytext","RES-1095","RES-1105,pexample","RES-1108,pexample","RES-1110,pexample","RES-1138","RES-1166,example","RES-1228,texample","ACT-1033","ACT-1034","ACT-1045","ACT-1087","ACT-1094"]}

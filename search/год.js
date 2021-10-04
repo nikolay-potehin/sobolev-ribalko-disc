@@ -1,0 +1,1 @@
+﻿{"годографом":["RES-1198,definition","RES-1288,pexample","RES-1282,pexample"],"годограф":["RES-1198,definition,msobodytext","RES-1284,pexample","RES-1288,pexample","RES-1282,pexample","RES-1283,pexample","RES-1295,dexample"],"годографа":["RES-1198,definition","RES-1288,pexample","RES-1282,pexample"],"годографу":["RES-1198,msobodytext"],"годовая":["RES-1242,texample"]}

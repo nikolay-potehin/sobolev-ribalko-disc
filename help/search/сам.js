@@ -1,0 +1,1 @@
+﻿{"самого":["RES-4,msobodytext"],"самопроверка":["RES-4,msonormal"],"самостоятельная":["RES-4,msonormal","RES-8"],"самостоятельной":["RES-5,msobodytext","RES-6,msobodytext","RES-21,msonormal"],"самостоятельному":["RES-6,msobodytext"],"самопроверки":["RES-7,msobodytext","RES-8,msobodytext","RES-30,signature","RES-32","ACT-31"],"самостоятельно":["RES-34,msobodytext,msonormal"]}

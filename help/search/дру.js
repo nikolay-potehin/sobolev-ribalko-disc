@@ -1,0 +1,1 @@
+﻿{"другой":["RES-4,msobodytext"],"другому":["RES-24,msonormal"]}

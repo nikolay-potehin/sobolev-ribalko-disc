@@ -1,0 +1,1 @@
+﻿{"детально":["RES-603,msobodytext"],"деталей":["RES-1275,pexample"]}

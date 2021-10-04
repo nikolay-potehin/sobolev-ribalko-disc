@@ -1,0 +1,1 @@
+﻿{"теперь":["RES-520,pexample","RES-1804,msobodytext"],"теплоход":["RES-1274,pexample"],"теплохода":["RES-1274,pexample"],"тепла":["RES-1718,msobodytext"]}

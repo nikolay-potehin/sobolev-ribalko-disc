@@ -1,0 +1,1 @@
+﻿{"свою":["RES-4,msobodytext"],"свойства":["RES-21,msonormal"],"своим":["RES-14,msobodytext"]}

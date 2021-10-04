@@ -1,0 +1,1 @@
+﻿{"итог":["RES-5,msobodytext,msonormal"],"итоговой":["RES-6,msobodytext"],"итогов":["RES-6,msobodytext,msonormal"],"итогового":["RES-8,msobodytext"],"итоге":["RES-25,msobodytext","RES-17,msobodytext"]}

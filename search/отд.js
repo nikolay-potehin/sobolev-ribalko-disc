@@ -1,0 +1,1 @@
+﻿{"отдельно":["RES-2069,example","RES-1039,provingtheorem"],"отдельных":["RES-1145,msobodytext"],"отделения":["RES-1196"],"отдельном":["RES-1255,pexample"],"отделяя":["RES-1611,msonormal"]}

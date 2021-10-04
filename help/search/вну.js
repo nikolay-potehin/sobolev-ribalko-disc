@@ -1,0 +1,1 @@
+﻿{"внутри":["RES-15,msobodytext,signature"]}

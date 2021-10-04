@@ -1,0 +1,1 @@
+﻿{"так":["RES-5,msobodytext","RES-6,msobodytext","RES-8,msobodytext","RES-30,msobodytext","RES-35,msobodytext","RES-19,msobodytext","RES-22,msobodytext","RES-24,msobodytext","RES-13,msobodytext","RES-15,msobodytext","RES-17,msobodytext"],"такого":["RES-34,msobodytext","RES-15,msobodytext"],"такой":["RES-20,msobodytext"],"также":["RES-27,msobodytext","RES-11,msobodytext"]}

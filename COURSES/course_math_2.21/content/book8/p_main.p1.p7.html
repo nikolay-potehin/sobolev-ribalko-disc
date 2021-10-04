@@ -1,0 +1,141 @@
+<html>
+<head>
+<title>3.3. Теорема Кронекера - Капелли</title>
+<link rel="stylesheet" href="../text.css" />
+</head><body><div id=p7 parent="p_main.p1"><div id=title>3.3. Теорема Кронекера - Капелли</div>
+
+<div id=block class="MsoBodyText">
+<div class="MsoBodyText">Рассмотрим систему <img align=absmiddle src="img/image001.gif"> линейных
+уравнений с <img align=absmiddle
+src="img/image002.gif"> неизвестными (1).</div>
+
+<div class="MsoBodyText">В начале лекции было показано, что ее можно представить в
+матричном виде. Будем рассматривать матрицу <img align=absmiddle src="img/image011.gif"> размерности
+<img align=absmiddle
+src="img/image062.gif"> как набор строк <img align=absmiddle
+src="img/image066.gif"> (столбцов<img align=absmiddle src="img/image067.gif">):</div>
+
+<div class="formula"><img align=absmiddle src="img/image071.gif"></div>
+
+<div>или</div>
+
+<div class="formula"><img align=absmiddle src="img/image072.gif">,</div>
+
+<div>где <img align=absmiddle src="img/image073.gif"> – матрица-строка;</div>
+
+<div class="formula"><img align=absmiddle src="img/image074.gif"> – матрица-столбец.</div>
+
+<div class="MsoBodyText">Введем понятие линейной зависимости строк (столбцов)
+матрицы.</div>
+</div>
+
+<div id=block class="Definition">
+<div style="text-indent:1cm"><b>Линейной комбинацией</b> строк называется выражение вида:</div>
+
+<div style="text-indent:1cm">
+<span><img align=absmiddle src="img/image075.gif">
+<span id="description">
+
+Линейная
+комбинация 
+
+</span>
+</span>.</div>
+
+<div style="text-indent:1cm">Строки матрицы <img align=absmiddle src="img/image076.gif"> называют <b>линейно</b>
+<b>зависимыми</b>, если существует такой набор чисел <img align=absmiddle src="img/image077.gif">,
+не равных одновременно нулю, при которых линейная комбинация строк обращается в
+ноль:</div>
+
+<div><img align=absmiddle src="img/image078.gif">.</div>
+</div>
+
+<div id=block class="Theorem">
+<div style="text-indent:1cm">Строки матрицы являются линейно зависимыми, если одна из них
+является линейной комбинацией остальных:</div>
+
+<div style="text-indent:1cm">
+<span><img align=absmiddle src="img/image079.gif">
+<span id="description">
+
+Линейная
+зависимость векторов
+
+</span>
+</span>.</div>
+</div>
+
+<div id=block class="Warning">
+<div style="text-indent:1cm">Действиям над строками матрицы соответствуют действия над
+уравнениями системы.</div>
+</div>
+
+<div id=block class="Definition">
+<div style="text-indent:1cm">Пусть матрица <img align=absmiddle src="img/image011.gif"> размерности <img align=absmiddle
+src="img/image080.gif"> имеет ранг <img align=absmiddle src="img/image081.gif">.
+Отличный от нуля минор порядка <img align=absmiddle src="img/image081.gif">, составленный из элементов
+матрицы <img align=absmiddle
+src="img/image011.gif">, называется <b>базисным минором </b>матрицы
+<img align=absmiddle
+src="img/image011.gif">.</div>
+</div>
+
+
+
+<div id=block class="Definition">
+<div style="text-indent:1cm">Неизвестные, коэффициенты перед которыми входят в базисный
+минор, называются <b>базисными</b> неизвестными. Неизвестные, не являющиеся
+базисными, называются <b>свободными</b>.</div>
+</div>
+
+<div id=block class="Theorem">
+<div style="text-indent:1cm"><b>Теорема о базисном миноре. </b>Если матрица <img align=absmiddle
+src="img/image080.gif"> имеет ранг <img align=absmiddle src="img/image081.gif">,
+то существуют <img align=absmiddle src="img/image081.gif"> таких строк (столбцов),
+что все остальные строки (столбцы) являются линейными комбинациями данных. Из
+элементов, входящих в эти строки (столбцы), можно построить базисный минор матрицы.</div>
+</div>
+
+<div id=block class="Warning">
+<div style="text-indent:1cm">Базисных миноров может быть много, но ранг определяется однозначно.</div>
+</div>
+
+<div id=block class="Next">
+<div>1&#730;. Строки (столбцы), входящие в базисный минор, линейно
+независимы.</div>
+</div>
+
+
+
+<div id=block class="Next">
+<div>2&#730;. Все строки (столбцы) матрицы, не входящие в базисный
+минор, линейно зависимы с базисными.</div>
+</div>
+
+
+
+<div id=block class="Next">
+<div>3&#730;. Число линейно независимых строк матрицы равно числу
+линейно независимых столбцов и равно рангу матрицы <img align=absmiddle src="img/image081.gif">.</div>
+</div>
+
+
+
+<div id=block class="Next">
+<div>4&#730;. <img align=absmiddle src="img/image082.gif">.</div>
+</div>
+
+<div id=block class="Theorem">
+<div style="text-indent:1cm"><b>Теорема Кронекера - Капелли.</b> Для того чтобы система <img align=absmiddle
+src="img/image001.gif"> уравнений с <img align=absmiddle src="img/image002.gif"> неизвестными
+была совместной, необходимо и достаточно, чтобы ранг основной матрицы системы
+равнялся рангу расширенной матрицы:</div>
+
+<div><img align=absmiddle src="img/image083.gif">.+</div>
+
+<div style="text-indent:1cm">Если <img align=absmiddle src="img/image084.gif">+, система определена, если
+<img align=absmiddle
+src="img/image085.gif">, система не определена.</div>
+</div>
+
+</div></body></html>

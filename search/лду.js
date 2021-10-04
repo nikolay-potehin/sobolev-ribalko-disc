@@ -1,0 +1,1 @@
+﻿{"лду":["RES-1970,beginst","RES-1971,definition,msobodytext,theorem,provingtheorem","RES-1980,beginst","RES-2069,msobodytext"]}

@@ -1,0 +1,1 @@
+﻿{"внешний":["RES-19,msobodytext,signature"]}

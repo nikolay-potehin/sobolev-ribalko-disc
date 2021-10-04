@@ -1,0 +1,1 @@
+﻿{"штрихи":["RES-433,msobodytext","RES-513,msobodytext"],"штрихованной":["RES-519,pexample"]}

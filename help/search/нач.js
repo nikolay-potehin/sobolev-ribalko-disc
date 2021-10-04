@@ -1,0 +1,1 @@
+﻿{"начать":["RES-30,msobodytext"],"начертания":["RES-25,msonormal"]}

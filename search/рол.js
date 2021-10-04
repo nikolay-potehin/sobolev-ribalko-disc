@@ -1,0 +1,1 @@
+﻿{"роль":["RES-204,properties","RES-779,msobodytext"],"ролля":["RES-1035,beginst","RES-1054,endst","RES-1049,provingtheorem","RES-1039","RES-1040,msobodytext,next","RES-1042,provingtheorem","RES-1043,warning","RES-1044,provingtheorem","RES-1076,texample","RES-1071,warning","RES-1138,dexample","ACT-1038"]}

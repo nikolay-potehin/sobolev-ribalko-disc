@@ -1,0 +1,1 @@
+﻿{"любой":["RES-24,msobodytext"],"любому":["RES-24,msonormal","RES-25,msobodytext"]}

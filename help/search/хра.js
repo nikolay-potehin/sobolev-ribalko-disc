@@ -1,0 +1,1 @@
+﻿{"хранение":["RES-35,msobodytext"],"хранилище":["RES-35,msobodytext"]}

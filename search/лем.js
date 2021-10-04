@@ -1,0 +1,1 @@
+﻿{"лемниската":["RES-553,definition","RES-662,dexample"],"лемнискаты":["RES-553,definition","RES-1681,example","RES-1736,pexample","RES-1787,dexample"],"лемме":["RES-790,example"],"лемма":["RES-1681,theorem"],"лемнискатой":["RES-1787,dexample"]}

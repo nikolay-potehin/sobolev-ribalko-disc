@@ -1,0 +1,1 @@
+﻿{"владеть":["RES-676,endst","RES-686,endst","RES-764,endst","RES-774,endst"],"владение":["RES-1089,beginst"],"владелец":["RES-1242,texample"],"владения":["RES-148,beginst"]}

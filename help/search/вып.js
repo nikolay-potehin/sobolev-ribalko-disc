@@ -1,0 +1,1 @@
+﻿{"выполнение":["RES-6,msobodytext","RES-30,signature"],"выполнить":["RES-30,msobodytext"],"выполните":["RES-35,msobodytext"],"выпадающее":["RES-35,msobodytext"],"выпадающий":["RES-25,msonormal","RES-17,msonormal"],"выпадающего":["RES-16,msobodytext","RES-17,msobodytext"],"выпадающем":["RES-17,msobodytext"]}

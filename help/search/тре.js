@@ -1,0 +1,1 @@
+﻿{"трех":["RES-6,msobodytext"],"требуется":["RES-34,msonormal","RES-16,msobodytext"],"требуемого":["RES-34,msonormal"],"требования":["RES-35"],"требуемым":["RES-21,msobodytext"],"трем":["RES-17,msobodytext"]}

@@ -1,0 +1,1 @@
+﻿{"основе":["RES-4,msobodytext"],"основного":["RES-5,msobodytext","RES-35,msobodytext"],"основная":["RES-5,msobodytext","RES-19","RES-11,msonormal","ACT-18"],"основ":["RES-6,msobodytext"],"основных":["RES-6,msobodytext","RES-7,msobodytext","RES-14,msobodytext"],"основы":["RES-30","RES-10","ACT-9"],"основной":["RES-11,msonormal"],"основном":["RES-17,msobodytext"]}

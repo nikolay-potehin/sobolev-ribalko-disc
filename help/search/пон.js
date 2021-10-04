@@ -1,0 +1,1 @@
+﻿{"понятий":["RES-5,msobodytext","RES-6,msobodytext"],"понимать":["RES-6,msobodytext"],"понятна":["RES-15,msobodytext"]}

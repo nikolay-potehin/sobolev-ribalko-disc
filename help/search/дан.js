@@ -1,0 +1,1 @@
+﻿{"данного":["RES-5,msobodytext"],"данной":["RES-6,msobodytext","RES-22,msobodytext"],"даны":["RES-30,msobodytext"],"данный":["RES-24,msobodytext"],"данным":["RES-24,msonormal"]}

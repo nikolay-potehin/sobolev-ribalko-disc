@@ -1,0 +1,1 @@
+﻿{"ряд":["RES-815,texample","RES-807,properties,msobodytext","RES-927","RES-1051,tableleft,msonormal,msobodytext","RES-1053,msonormal","RES-1120,msobodytext","RES-1121,msonormal,msobodytext"],"ряда":["RES-1049,theorem,warning","RES-1050,msonormal","RES-1118,msobodytext","RES-1120,msobodytext"],"рядов":["RES-1319,definition"]}

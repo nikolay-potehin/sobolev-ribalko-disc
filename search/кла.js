@@ -1,0 +1,1 @@
+﻿{"классов":["RES-670,example"],"класс":["RES-670,example"],"класса":["RES-670,example"],"классификация":["RES-744,beginst","RES-776,beginst","RES-795","RES-872","RES-933"],"классификации":["RES-795,msobodytext"],"классификацию":["RES-796,endst"],"классифицировать":["RES-902,endst"],"классифицируются":["RES-1529,msobodytext"]}

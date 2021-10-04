@@ -1,0 +1,1 @@
+﻿{"уточнить":["RES-1,msobodytext"],"уточняет":["RES-679,msobodytext"]}

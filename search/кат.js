@@ -1,0 +1,1 @@
+﻿{"катящегося":["RES-442,definition","RES-542,definition"],"катится":["RES-442,msobodytext","RES-443,definition","RES-543,definition"],"катеноидом":["RES-1787,dexample"]}

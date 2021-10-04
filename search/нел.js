@@ -1,0 +1,1 @@
+﻿{"нельзя":["RES-670,msobodytext","RES-679,warning","RES-698,texample"]}

@@ -1,0 +1,1 @@
+﻿{"шара":["RES-968,example","RES-1084,pexample"]}

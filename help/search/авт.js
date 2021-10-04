@@ -1,0 +1,1 @@
+﻿{"автоматической":["RES-8,msobodytext","RES-29","RES-30,msonormal,signature,msobodytext","RES-19,msobodytext,msonormal","RES-22,msobodytext,signature","ACT-28"],"автоматически":["RES-24,msonormal"]}

@@ -1,0 +1,1 @@
+﻿{"панель":["RES-19,msonormal","RES-20,msobodytext,signature","RES-21,msobodytext,signature","RES-22,signature","RES-25,signature","RES-27,signature"],"панели":["RES-22,msobodytext"]}

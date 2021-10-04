@@ -1,0 +1,1 @@
+﻿{"экране":["RES-30,msobodytext","RES-20,msobodytext","RES-21,msobodytext","RES-24,msonormal,msobodytext"],"экран":["RES-22,msobodytext"],"экрана":["RES-24,msobodytext,msonormal"]}

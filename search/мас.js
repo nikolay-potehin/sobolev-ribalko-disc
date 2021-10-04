@@ -1,0 +1,1 @@
+﻿{"масса":["RES-1964,dexample","RES-203,definition","RES-1717,msobodytext","RES-1778,pexample","RES-1866,example"],"масс":["RES-1717,msobodytext,theorem","RES-1775,pexample","RES-1776,pexample","RES-1787,dexample"],"массы":["RES-1778,pexample","RES-1787,dexample"],"масла":["RES-1784,pexample"],"масло":["RES-1784,pexample"],"маслом":["RES-1784,pexample"]}

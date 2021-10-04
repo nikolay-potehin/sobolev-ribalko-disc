@@ -1,0 +1,1 @@
+﻿{"капелли":["RES-197,theorem","RES-158,endst","RES-155,theorem","RES-165,theorem","RES-172,pexample","RES-175,pexample","RES-176,pexample","RES-178,pexample","RES-179,pexample"]}

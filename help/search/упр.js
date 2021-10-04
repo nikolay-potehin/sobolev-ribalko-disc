@@ -1,0 +1,1 @@
+﻿{"упражнения":["RES-6,msonormal,msobodytext","RES-21,msonormal"],"упражнениями":["RES-6,msobodytext"],"управление":["RES-35,msobodytext","RES-19,msobodytext"],"управления":["RES-19,msonormal","RES-20,msobodytext,signature","RES-25,msobodytext","RES-11,msonormal","RES-17,msobodytext,signature"],"упрощения":["RES-14,msobodytext"],"управляющие":["RES-15,msobodytext"]}

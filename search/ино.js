@@ -1,0 +1,1 @@
+﻿{"иной":["RES-324,beginst","RES-1876,definition"],"иное":["RES-670,definition,msobodytext"],"иногда":["RES-685,warning"]}

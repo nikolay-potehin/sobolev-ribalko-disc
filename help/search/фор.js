@@ -1,0 +1,1 @@
+﻿{"формул":["RES-6,msobodytext","RES-7,msobodytext"],"формулировки":["RES-6,msobodytext"],"формирование":["RES-8,msobodytext"],"формулировкой":["RES-34,msonormal"],"форматирования":["RES-25,msobodytext,signature"]}

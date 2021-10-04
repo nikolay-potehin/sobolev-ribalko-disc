@@ -1,0 +1,1 @@
+﻿{"новой":["RES-20,msobodytext,signature"],"новая":["RES-20,msobodytext"]}

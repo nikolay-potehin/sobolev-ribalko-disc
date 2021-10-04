@@ -1,0 +1,1 @@
+﻿{"умолчанию":["RES-24,msobodytext","RES-11,msobodytext","RES-14,msobodytext","RES-16,msobodytext","RES-17,msobodytext"]}

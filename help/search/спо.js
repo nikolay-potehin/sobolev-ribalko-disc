@@ -1,0 +1,1 @@
+﻿{"способы":["RES-6,msobodytext"],"способа":["RES-7,msobodytext"]}

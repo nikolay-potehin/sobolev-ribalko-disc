@@ -1,0 +1,1 @@
+﻿{"вправо":["RES-11,msobodytext","RES-15,msonormal"]}

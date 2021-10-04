@@ -1,0 +1,1 @@
+﻿{"настроить":["RES-34,msonormal"],"настройки":["RES-35,msobodytext"],"настройка":["RES-35,msobodytext","RES-17,msobodytext"]}

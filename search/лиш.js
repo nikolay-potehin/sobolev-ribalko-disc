@@ -1,0 +1,1 @@
+﻿{"лишь":["RES-1971,definition","RES-1157,warning","RES-1408,theorem"]}

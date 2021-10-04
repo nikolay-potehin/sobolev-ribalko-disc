@@ -1,0 +1,1 @@
+﻿{"min":["RES-1160,msonormal","RES-1245,pexample","RES-1246,pexample","RES-1254,pexample","RES-1256,pexample","RES-1309,msobodytext"]}

@@ -1,0 +1,1 @@
+﻿{"сокращения":["RES-1973,msobodytext","RES-670,msobodytext","RES-777,example"],"сокращая":["RES-1983,msobodytext"],"сокращению":["RES-433,msobodytext"],"сокращенной":["RES-670,msobodytext"],"сокращенные":["RES-670,msobodytext"],"сокращенная":["RES-670,msobodytext","RES-679,msobodytext"]}

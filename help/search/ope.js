@@ -1,0 +1,1 @@
+﻿{"opera":["RES-35,msobodytext"]}

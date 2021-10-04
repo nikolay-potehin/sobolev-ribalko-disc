@@ -1,0 +1,1 @@
+﻿{"взяты":["RES-6,msobodytext"]}
